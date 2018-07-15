@@ -1,0 +1,61 @@
+CAP赤TULO 5   CALIBRACI車N
+El  instrumento  ha  sido  calibrado  estrictamente  en  la  f芍brica.  Es  posible  que necesite  llevar  a  cabo  procedimientos de  calibraci車n  cada  vez  que  cambie cualquier componente que involucre cambios en las caracter赤sticas principales de  medici車n,  o  cuando  se  produce  alguna  variaci車n  durante  el  uso  de  los controles.  La  calibraci車n  del  instrumento  proporciona  seguridad  de  que  este funciona adecuadamente proporcionando resultados precisos. 
+El prop車sito de la calibraci車n es asegurar la exactitud del resultado de medici車n y el cumplimiento de los requisitos de dise?o todo el tiempo. 
+Para garantizar la precisi車n del instrumento y obtener resultados de medici車n fiables, es necesario calibrar el instrumento en las siguientes situaciones: 
+a) La instalaci車n por primera vez  o re-configuraci車n en un nuevo lugar. 
+b) Mantenimiento  del instrumento. 
+c) El resultado de control de calidad es anormal. 
+d) Sustituci車n de reactivo.
+Advertencia: Los calibradores deben almacenarse y utilizarse correctamente de acuerdo con el manual del calibrador.
+Advertencia: Aseg迆rese de que el instrumento se encuentra en un estado normal antes de la calibraci車n.
+Advertencia: Evitar el uso de resultados de medici車n en pruebas m谷dicas o cl赤nicas antes de realizar el proceso de calibraci車n exitoso. 
+Compruebe  cuidadosamente  antes de  la  calibraci車n  el  instrumento  y  los reactivos. Aseg迆rese de que el instrumento est芍 en estado normal, y verifique el modo de muestra requerido para la medici車n.
+5.1  Calibraci車n manual
+5.1.1 Prueba de fondo
+Consulte el Cap赤tulo 3 "An芍lisis de las muestras" / Secci車n 3.3, Aseg迆rese de 
+que  la  prueba  cumple  con  los requisitos de  fondo  y  no  se  produce  un  mal funcionamiento.
+5.1.2 Seguridad de la repetibilidad
+Para garantizar la calibraci車n precisa, es necesario evaluar la repetibilidad de la medici車n  del  instrumento.  Aseg迆rese  de  que  el  instrumento  se  encuentra  en estado normal, a continuaci車n, realizar el programa de calibraci車n. 
+Los procedimientos son los siguientes: 
+a) En la ventana del analizador, mida en varias ocasiones con el calibrador (no menos de 3 veces). 
+b) Registra los datos de WBC, RBC, HGB, MCV, PLT. Calcula el valor de CV de acuerdo con la siguiente f車rmula. S車lo si el resultado est芍 en el l赤mite de la tabla 5-1 se puede realizar la calibraci車n.
+	
+
+
+
+
+
+
+5.1.3 Calcular los factores de calibraci車n
+Calcular los nuevos factores de calibraci車n de acuerdo con la siguiente f車rmula:
+	
+
+5.1.4 Modificar el coeficiente de calibraci車n
+a) En la ventana del analizador, pulse el bot車n men迆. 
+Seleccione  ※Calibraci車n§,  luego  "Calibraci車n  manual",  entra  en  la  ventana  de calibraci車n, como se muestra en la figura 5-1.
+
+	
+ 
+Figura 5-1
+B) Seleccione los datos de calibraci車n que necesita modificar en el cuadro de datos de calibraci車n. 
+c) Pulse el bot車n "Imprimir". El dispositivo imprimir芍 el resultado de la calibraci車n actual. 
+d)  Pulse  el  bot車n  "OK"  para  guardar  el  resultado  de  la  calibraci車n  actual  y volver a la ventana principal del analizador. 
+e)  Pulse el  bot車n  "Cancelar".  El  instrumento  cancelar芍  la  calibraci車n  actual  y volver芍  a la ventana principal del analizador.
+5.2  Calibraci車n Autom芍tica
+Los procedimientos son los siguientes: 
+a) En la ventana del analizador, pulse el bot車n MENU, seleccione ※Calibraci車n§ luego  "Calibraci車n  Autom芍tica".  El  instrumento  muestra  la  ventana  de calibraci車n autom芍tica, como se muestra en la figura 5-2.
+ 
+Figura 5-2
+b) Introduzca el valor de referencia (media) de cada par芍metro de calibraci車n. 
+c) Alistar los calibradores y agitar hasta obtener una buena mezcla. 
+d) Coloque el control debajo de la aguja de muestra. Pulse el bot車n "INICIO", 
+el  instrumento  aspira  el  control,  retirar  el  control  cuando    la  sonda  suba    a realizar el proceso de medici車n. 
+e)  Cuando  la  medici車n  ha  terminado,  el  resultado  se  muestra  en  una  de  las columnas de  la  ventana  actual.  Si  se  produce  una  alarma  en  la  medici車n,  el resultado actual puede ser incorrecto 
+f) Pulse la tecla "Borrar" para borrar el resultado y pruebe de nuevo despu谷s de que el problema este resuelto. 
+g) Pulse el bot車n "Regresar", el instrumento volver芍 a la ventana principal del analizador. 
+ 
+Aviso: El calibrador puede correrse 5 veces como m芍ximo.
+
+Aviso: El resultado de la calibraci車n se mostrar芍 despu谷s de probar 3 veces.
+
+Aviso: Si el valor del par芍metro es un dato no v芍lido, el sistema no va a realizar la calibraci車n. Debe repetir el proceso.

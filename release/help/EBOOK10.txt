@@ -1,0 +1,61 @@
+CAP¨ªTULO 10        SOLUCI¨®N DE PROBLEMAS
+Este cap¨ªtulo contiene informaci¨®n que es ¨²til para identificar y resolver algunos problemas con los instrumentos, que se pueden producir en el funcionamiento del  analizador.  Si  el  problema  no  se  puede  corregir  con  la  ayuda  de  este cap¨ªtulo, el usuario debe ponerse en contacto con el Departamento de Servicio al Cliente de FUERTE CARE o su distribuidor autorizado.
+10.1 Encendido Anormal 
+M¨¦todos y procedimientos: 
+a) Compruebe la alimentaci¨®n ¡°fuente¡± est¨¢ encendida. 
+b) Compruebe si el cable de alimentaci¨®n est¨¢ suelto. 
+c) Compruebe si el fusible est¨¢ da ado. Si est¨¢ da ado, c¨¢mbielo como indica la secci¨®n 9.1.2. 
+10.2 Residuos llenos 
+M¨¦todos y procedimientos: 
+Desh¨¢gase de las los residuos del contenedor. 
+
+10.3 Diluente Vac¨ªo 
+M¨¦todos y procedimientos: 
+a) Instale un diluente nuevo. 
+b) En la ventana principal del analizador, pulse men¨², seleccione " Servicio / 
+Purgar Diluente¡±. 
+
+10.4 Lisante vac¨ªo 
+M¨¦todos y procedimientos: 
+a) Instale un lisante nuevo. 
+b) En la ventana principal del analizador, pulse men¨², seleccione " Servicio / 
+Purgar Lisante¡±. 
+10.5 WBC obstruido o RBC obstruido 
+Si el tiempo de conteo excede el l¨ªmite superior de la configuraci¨®n durante la medici¨®n, se produce una alarma por  "obstrucci¨®n". 
+M¨¦todos y procedimientos: 
+a)  En  la  ventana  principal  del  analizador,  pulse  la  tecla  de  acceso  directo 
+"ENJUAGUE". 
+b) Si con este procedimiento no puede resolver el problema, realice el siguiente procedimiento. 
+c)  En  la  ventana  principal  del analizador,  pulse  men¨²,  seleccione "  Servicio  / 
+Enjuague mejorado". Siga las instrucciones que aparecen en la pantalla para realizar este proceso de manera completa.
+10.6  Error HGB 
+M¨¦todos y procedimientos: 
+a)  En  la  ventana  principal  del  analizador,  pulse  Men¨²  seleccione  "  Servicio  / 
+Limpieza". ) Si con este procedimiento no puede resolver el problema, realice el siguiente procedimiento. 
+c)  En  la  ventana  principal  del  analizador,  pulse  men¨²,  seleccione  "Servicio  / 
+Enjuague mejorado". 
+10.7 Burbujas HGB 
+M¨¦todos y procedimientos: 
+a) En la ventana principal del analizador, pulse Men¨², seleccione " Servicio / 
+Limpieza". 
+b) Si con este procedimiento no puede resolver el problema, realice el siguiente procedimiento. 
+c)  En  la  ventana  principal  del  analizador,  pulse  men¨²,  seleccione  ¡°  Servicio  / Enjuague mejorado".
+10.8 Impresora Sin Papel 
+M¨¦todos y procedimientos: 
+a) Presione suavemente la puerta de la impresora para abrirla. 
+b)  Introducir  el  nuevo  papel  en  la  entrada  de  papel,  y  hacer  que  la  cara  de impresi¨®n quede  hacia el cabezal t¨¦rmico. 
+c) Cuando el papel se corre hacia alg¨²n lado, tirar de ¨¦l y mantenerlo recto. 
+d) Extraiga el papel por la salida ubicada en la puerta. 
+e) Cierre la puerta de la impresora.
+10.9 Impresora Caliente 
+Las posibles razones son: 
+El cabezal t¨¦rmico de la impresora est¨¢ demasiado caliente. 
+M¨¦todos y procedimientos: 
+Suspender el uso de la impresora durante 5 minutos.
+10.10  Resultado de la Prueba de Fondo Alto 
+M¨¦todos y procedimientos: 
+a) En la ventana principal del analizador, pulse men¨², seleccione " Servicio / 
+Limpieza". 
+b)  Repita  este  procedimiento  3  veces,  si  con  este  procedimiento  no  puede resolver el problema, realice el siguiente proceso. 
+c)  En  la  ventana  principal  del  analizador,  pulse  men¨²,  seleccione  ¡°  Servicio  / Enjuague mejorado". 
+d)  Repita  este  proceso  3  veces,  si  con  este  proceso  no  logra  resolver  el problema, repita el procedimiento despu¨¦s de sustituir todos los reactivos.

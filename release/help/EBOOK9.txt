@@ -1,0 +1,60 @@
+Cap赤tulo 9       MANTENIMIENTO 
+
+Como  instrumento  de  precisi車n,  requiere  cuidado  diario  y  mantenimiento 
+peri車dico  que  garantizaran  un  buen  estado  de  trabajo,  fiabilidad  en  los resultados de medici車n y se pueden tener pocas fallas en su uso. 
+Este  cap赤tulo  presenta  algunos m谷todos preventivos para  el  cuidado  y mantenimiento. 
+De acuerdo con los requisitos para el mantenimiento del dispositivo, dividimos el cuidado preventivo y el mantenimiento en los siguientes tipos: diario, semanal, mensual, anual y mantenimiento de acuerdo a las necesidades.
+
+Advertencia: Es importante  para  el laboratorio, la cl赤nica o la  organizaci車n  que  emplea  este  instrumento llevar  a  cabo  un  programa  de  mantenimiento  razonable.  El  descuido  de  este puede generar aver赤as en el instrumento.
+
+9.1 Rutina de Mantenimiento 
+9.1.1 Limpieza exterior 
+Limpiar  el  instrumento  en  su  parte  externa  con un trapo ligeramente humedecido con detergente neutro o agua destilada.
+
+Precauci車n: Evite  el  uso  de  芍cidos corrosivos,  alcalinos y disolventes org芍nicos vol芍tiles tales como:  acetona,  谷ter,  cloroformo,  etc.,  puede  deteriorar  la  apariencia  del instrumento. Utilizar s車lo detergente neutro. 
+Precauci車n: Evite limpiar el interior del instrumento. 
+
+9.1.2  Cambiar el fusible 
+El  fusible  se  instala  en  la  caja  de  fusibles ubicada  al  lado  del  interruptor  de alimentaci車n. Abra la caja para reemplazar el fusible deseado. 
+Especificaci車n del fusible: AC 250V 2a
+Advertencia: S車lo Utilizar el fusible especificado.  
+  
+9.2 Mantenimiento Diario 
+Se puede realizar de dos maneras: ejecutarlo y en el apagado. 
+ 	Ejecutar
+El instrumento cuenta con una funci車n de limpieza autom芍tica que le permite ejecutar el mantenimiento diario. 
+Este  proceso,  se  puede  ejecutar  de  acuerdo  con  la  cantidad  de  muestras 
+realizadas para  mantener  el  instrumento  en  un  buen  estado  de  trabajo. 
+Establecer el tiempo de ejecuci車n del procedimiento de limpieza autom芍tica de acuerdo a la secci車n 6.3. Los principios generales de configuraci車n son: 
+Tiempo de trabajo> 8 horas, tiempo de la limpieza autom芍tica = 8 horas; 
+Tiempo de trabajo 4 horas < <8 horas, tiempo de limpieza autom芍tica= 4 horas; 
+Tiempo de trabajo <4 horas, tiempo de limpieza autom芍tica = 2 horas. 
+Estos tiempos  disminuyen su frecuencia 1 hora por cada a o de uso
+ 	Apagado 
+Cuando  se  ejecuta el  apagado,  el  instrumento  realiza  el  proceso  de  limpieza autom芍tica. Si es necesario,  limpiar la mesa de trabajo y la parte externa del instrumento cuando desconecte la alimentaci車n.
+9.3  Mantenimiento semanal
+El analizador cuenta con un procedimiento de mantenimiento semanal. Seguir los siguientes procedimientos: 
+Preparar la soluci車n de lavado de la sonda. 
+En  la  ventana  principal  del  analizador  ↙  Men迆  principal  ↙  Servicio  ↙ Mantenimiento.  Terminar  todas las operaciones de  acuerdo  con  las instrucciones en la pantalla. 
+Desconecte la alimentaci車n del instrumento.
+Nota:  El  Analizador  de  hematolog赤a  es una  especie  de  instrumento  de precisi車n, por lo que se recomienda hacer un mantenimiento cada 3 o 4 d赤as. Si usted  tiene  una  gran  cantidad  de  muestras,  debe  aumentar  los  tiempos de mantenimiento adecuados.
+9.4  Mantenimiento mensual 
+Es necesario limpiar el polvo del instrumento mensualmente. 
+Seguir los siguientes procedimientos: 
+a) Desconectar la fuente de alimentaci車n del instrumento, y luego retire la l赤nea de alta tensi車n. 
+Abra  la  puerta  lateral  derecha  y  quitar  el  polvo  interno  del  instrumento  con cuidado.  
+(Nota: ). Se debe evitar la ca赤da de polvo en las c芍maras de medici車n para no contaminarlas y crear resultados de pruebas anormales) 
+c) Cuando la limpieza se lleva a cabo, no utilice el instrumento inmediatamente. 
+Se debe iniciar el sistema de lavado para asegurarse de que la parte interior de la tuber赤a est芍 limpia.
+9.5  Mantenimiento anual 
+Es necesario realizar el mantenimiento preventivo una vez al a o. Debido a los requerimientos del  mantenimiento  anual,  este  mantenimiento  debe  ser realizado por el ingeniero autorizado de FUERTE CARE o su distribuidor autorizado. 
+Por favor, p車ngase en contacto con el departamento de servicio al cliente de FUERTE CARE  o su distribuidor autorizado antes del mantenimiento anual.
+
+9.6    Mantenimiento  antes  de  transporte  o  por  que  el instrumento no ser芍 usado por largo tiempo  
+Si  el  instrumento  no  ha  sido  utilizado  por  m芍s de  dos  semanas,  o  debe  ser embalado para su transporte, realizar los siguientes pasos: 
+a)  Los reactivos restantes deben  ser  sellados correctamente.  Siga  las instrucciones para realizar el almacenamiento y la protecci車n de los reactivos. 
+El  usuario  debe  establecer  y  mantener  medidas eficaces  para  realizar  el almacenamiento de los reactivos y evitar el deterioro por mal uso. 
+b)  Coloque  los tapones de  la  tuber赤a  en  las l赤neas ubicadas en  la  parte posterior, luego de desconectar  cada l赤nea de alimentaci車n de reactivo. 
+c) limpiar por separado la tuber赤a del diluyente, tuber赤a del lisante, y tuber赤a de residuos con agua destilada, poner a secar en un lugar a la sombra y se empacan en bolsas de pl芍stico. 
+d)  Limpie  el  cable  de  alimentaci車n  con  un  pa o  limpio  humedecido  con  un detergente neutro y, a continuaci車n, secar en un lugar a la sombra y empacarlo en una bolsa de pl芍stico. 
+e) Poner las bolsas de pl芍stico con los componentes en la caja de embalaje

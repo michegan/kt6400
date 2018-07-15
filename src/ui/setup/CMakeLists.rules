@@ -1,0 +1,72 @@
+set(modulename setup)
+
+set(${modulename}_moc_files 
+    ${modulename}/setupwin.h
+    ${modulename}/reagentwin.h
+    ${modulename}/setupdialog.h
+    ${modulename}/setupfuncwin.h
+    ${modulename}/usereditdialog.h
+    ${modulename}/gainsetupdialog.h
+    ${modulename}/usersetupdialog.h
+    ${modulename}/usertablewidget.h
+    ${modulename}/doctoreditdialog.h
+    ${modulename}/printsetupdialog.h
+    ${modulename}/doctorsetupdialog.h
+    ${modulename}/doctortablewidget.h
+    ${modulename}/machinesetupdialog.h
+    ${modulename}/datetimesetupdialog.h
+    ${modulename}/paraunitsetupdialog.h
+    ${modulename}/refrangesetupdialog.h
+    ${modulename}/calfactorsetupdialog.h
+    ${modulename}/departmenteditdialog.h
+    ${modulename}/departmentsetupdialog.h
+    ${modulename}/departmenttablewidget.h
+)
+
+set(${modulename}_uic_files 
+    ${modulename}/setupwin.ui
+    ${modulename}/reagentwin.ui
+    ${modulename}/usereditdialog.ui
+    ${modulename}/gainsetupdialog.ui
+    ${modulename}/usersetupdialog.ui
+    ${modulename}/doctoreditdialog.ui
+    ${modulename}/printsetupdialog.ui
+    ${modulename}/doctorsetupdialog.ui
+    ${modulename}/machinesetupdialog.ui
+    ${modulename}/datetimesetupdialog.ui
+    ${modulename}/paraunitsetupdialog.ui
+    ${modulename}/refrangesetupdialog.ui
+    ${modulename}/calfactorsetupdialog.ui
+    ${modulename}/departmenteditdialog.ui
+    ${modulename}/departmentsetupdialog.ui
+)
+
+set(${modulename}_source_files 
+    ${modulename}/setupwin.cpp
+    ${modulename}/reagentwin.cpp
+    ${modulename}/setupdialog.cpp
+    ${modulename}/setupfuncwin.cpp
+    ${modulename}/usereditdialog.cpp
+    ${modulename}/gainsetupdialog.cpp
+    ${modulename}/usersetupdialog.cpp
+    ${modulename}/usertablewidget.cpp
+    ${modulename}/doctoreditdialog.cpp
+    ${modulename}/printsetupdialog.cpp
+    ${modulename}/doctortablewidget.cpp
+    ${modulename}/doctorsetupdialog.cpp
+    ${modulename}/machinesetupdialog.cpp
+    ${modulename}/datetimesetupdialog.cpp
+    ${modulename}/paraunitsetupdialog.cpp
+    ${modulename}/refrangesetupdialog.cpp
+    ${modulename}/calfactorsetupdialog.cpp
+    ${modulename}/departmenteditdialog.cpp
+    ${modulename}/departmentsetupdialog.cpp
+    ${modulename}/departmenttablewidget.cpp
+)
+
+set(include_dir  ${include_dir}  ${CMAKE_CURRENT_SOURCE_DIR}/${modulename})
+set(moc_files    ${moc_files}    ${${modulename}_moc_files})
+set(uic_files    ${uic_files}    ${${modulename}_uic_files})
+set(source_files ${source_files} ${${modulename}_source_files})
+
+source_group(${modulename} FILES ${${modulename}_moc_files} ${${modulename}_uic_files} ${${modulename}_source_files})

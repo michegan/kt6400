@@ -1,0 +1,78 @@
+Cap赤tulo 7   Revisi車n
+El  instrumento  almacena  autom芍ticamente  los resultados despu谷s de  cada an芍lisis de las muestras. El operador puede revisar, buscar, modificar, imprimir y borrar los datos.
+7.1  Revisar muestras
+En  la  ventana  principal  del  analizador,  pulse  el  men迆,  seleccione  "Revisar". 
+Como se muestra en la figura 7-1.
+ 
+Figura 7-1
+Los datos en el cuadro se pueden revisar e imprimir. 
+8 resultados de muestras se visualizan en la pantalla en la secuencia de tiempo en que se realizaron. 
+El  bot車n  de  la  barra  de  desplazamiento  en  la  parte  inferior  de  la  pantalla muestra la posici車n actual. 
+El significado de los caracteres es el siguiente: 
+"∥"  aparece  cuando  el  resultado  del  par芍metro  indicado  supera  el  l赤mite superior del sistema.
+"∣" aparece cuando el resultado del par芍metro indicado supera el l赤mite inferior del sistema. 
+"C"  aparece  cuando  durante  la  medici車n  del  par芍metro  indicado  ocurren obstrucciones.
+"B"  aparece  cuando  durante  la  medici車n  ocurre una burbuja.  
+ 	Revisi車n de los datos de la muestra 
+
+Seleccione el cursor izquierdo de la barra de desplazamiento en la parte inferior de la pantalla para revisar los datos anteriores. 
+Seleccione el cursor derecho de la barra de desplazamiento en la parte inferior de la pantalla para revisar los datos siguientes. 
+Mantenga pulsado el cursor de la barra de desplazamiento en la parte inferior de la pantalla, para revisar los datos de las muestras r芍pidamente.
+ 	Eliminar datos seleccionados 
+
+Los procedimientos son los siguientes: 
+a) Seleccione el o los cuadros de datos que quiere eliminar dando clic en la parte superior de cada uno de ellos, del mismo modo se cancela la selecci車n. 
+b) Seleccione "BORRAR" en el men迆, se muestra un cuadro de di芍logo, que le permite elegir aceptar o cancelar el borrado. Pulse OK y los datos se borraran. Pulse CANCEL y la operaci車n ser芍 cancelada.
+ 	Eliminar todos los datos 
+Los procedimientos son los siguientes: 
+a) Pulse en el  "Seleccionar todo", se seleccionaran todos los datos. Pulse de nuevo, y se cancelar芍 la selecci車n. 
+b) Seleccione "BORRAR" en el men迆, se muestra un cuadro de di芍logo, que le permite elegir aceptar o cancelar el borrado. Pulse OK y los datos se borraran. Pulse CANCEL y la operaci車n ser芍 cancelada. 
+ 	Imprima la tabla de datos de la muestra actual
+
+Los procedimientos son los siguientes: 
+a) En la parte superior de la pantalla Pulse en el  ※Al §, se pueden seleccionar los datos. Pulse de nuevo y se cancelara la selecci車n. 
+b)  Haga  clic en  la  tecla  de  acceso  directo  "Imprimir",  las tablas de  datos seleccionadas se imprimir芍n. 
+ 	Ejemplo de B迆squeda de datos  
+Imprima los datos seleccionados con los siguientes procedimientos: 
+a)  Pulse en ※Buscar§ aparece la pantalla de b迆squeda como se muestra en la figura 7-2. 
+                            
+Figura 7-2
+b)  Haga  clic en  el  recuadro  izquierdo  del  elemento  que  desea  buscar. 
+Ingrese la palabra clave que desea buscar. 
+c)  Repita el procedimiento b) hasta que decida que no desea buscar otra palabra o dato clave. Pulse en el  "Cancelar" para cancelar la b迆squeda. 
+Pulse en el  "OK", y el sistema comenzar芍 a buscar los datos. Cuando la  b迆squeda  haya  terminado,  los datos  de  las muestras correspondientes se muestran en la pantalla. 
+Las teclas de acceso directo del men迆 son las siguientes: 
+Todo ※TODO§: seleccione o recupere todos los datos de la muestra. 
+Detalle: Ingrese a la ventana de revisi車n detallada. 
+Buscar ※BUSCAR§: Busca en los datos, resultados de muestras requeridas. 
+Borrar: Borra los datos seleccionados. 
+Imprimir: Imprime los datos o tablas actuales seleccionadas. 
+Men迆: Sale de la ventana actual.
+7.2  Revisi車n Detallada
+En la ventana de revisi車n, seleccione "Detalle" a trav谷s del men迆 o la tecla de acceso r芍pido. El instrumento accede a la ventana de revisi車n detallada, como se muestra en la figura 7-3. 
+En esta ventana puede revisar, modificar e imprimir los datos de la muestra en los gr芍ficos.
+ 	Revisi車n 
+Pulse en "Siguiente" para revisar los datos siguientes. 
+Pulse en el  bot車n "Anterior" para revisar los datos anteriores. 
+ 	Modificar la informaci車n de muestreo 
+Haz  clic en  la    tecla  de  acceso  directo  "Info",  aparecer芍    la  ventana  de 
+"Informaci車n". Sobre el funcionamiento de esta ventana se refiere al cap赤tulo 3 
+"An芍lisis de las muestras" / Seccion3.6.1.
+ 	Ejemplo de Modificaci車n de datos
+Seleccione ※Histograma§  en el men迆 principal. 
+Los procedimientos de operaci車n son los siguientes: 
+a)  Pulse en la tecla  de  acceso  directo  "Para",  puede  seleccionar  WBC,  RBC, 
+PLT. 
+b)  Pulse en  la  tecla  de  acceso  directo  "Line",  se  pueden  seleccionar  las l赤neas de clasificaci車n en el histograma. 
+c)  Pulse en  la  tecla  de  acceso  "Izquierda"  o  "Derecha",  puede  mover  la l赤nea de clasificaci車n a la derecha o a la izquierda. 
+Los datos calculados  de  acuerdo  con  la  nueva  l赤nea  de  clasificaci車n  se muestran en el 芍rea de datos en la parte izquierda de la pantalla. 
+b) Seleccione  "Regresar". Si el usuario ha modificado los datos de la muestra, aparecer芍    un  cuadro  de  di芍logo.  El  usuario  puede  guardar    o  no  la modificaci車n.  Seleccione    "Aceptar",  y  se  guardar芍  el  resultado,  seleccione 
+"Cancelar",  el  resultado  no  se  guarda  y  el  sistema  saldr芍  de  la  ventana  de modificaci車n del histograma.
+ 
+Figura 7-3
+Las teclas de acceso directo del men迆 son las siguientes: 
+Info.: Modifique los datos de entrada de la muestra.
+Ant.: Revise los datos anteriores. 
+Sig.: Revise los datos siguientes. 
+Imprimir: Imprime los datos de la muestra actual. 
+Regresar:  Sale  de  la  ventana  actual  y  vuelve  a  la  pantalla  principal  del analizador.

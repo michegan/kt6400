@@ -1,0 +1,8 @@
+<root>
+  <items id = "SHUTDOWN">
+    <!-- NORMAL, ABNORMAL, EMPTY, PACKAGE -->
+    <item id = "SHUTDOWN_TYPE" value = "SHUTDOWN_NORMAL"/>
+    <!-- SHUTDOWN TIME -->
+    <item id = "SHUTDOWN_TIME" value = ""/>
+  </items>
+</root>

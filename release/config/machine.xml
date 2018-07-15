@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <items id = "MACHINE">
+    <!-- 序列号 -->
+    <item id = "SN" value = ""/>
+    <!-- 宠物版 -->
+    <item id = "FOR_PETS" value = "0"/>
+    <!-- 装机日期 -->
+    <item id = "INSTALL_DATE" value = "0"/>
+    <!-- 测试速度 -->
+    <item id = "TEST_SPEED" value = "60"/>
+    <!-- 稀释比 -->
+    <item id = "DILUENT_FACTOR" value = "100"/>
+    <!-- 溶血剂耗量 -->
+    <item id = "LYSE_VOLUME" value = "100"/>
+    <!-- 语言 -->
+    <item id = "LANGUAGE" value = "English"/>
+    <!-- 系统单位 -->
+    <item id = "SYS_UNIT" value = "INTERNAL"/>
+  </items>
+</root>

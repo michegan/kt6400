@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>NextPetEditDialog</class>
+ <widget class="QDialog" name="NextPetEditDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>700</width>
+    <height>320</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>NextPetEditDialog</string>
+  </property>
+  <widget class="QLabel" name="lbMode">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>20</y>
+     <width>80</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Mode</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="leMode">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>20</y>
+     <width>200</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbSampleId">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>70</y>
+     <width>80</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Sample ID</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbSpecies">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>80</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Species</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbSendTime">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>70</y>
+     <width>80</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Send Time</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbComment">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>160</y>
+     <width>80</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Comment</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="teComment">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>170</y>
+     <width>561</width>
+     <height>80</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pbOk">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>270</y>
+     <width>120</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Ok</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pbCancel">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>270</y>
+     <width>120</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Cancel</string>
+   </property>
+  </widget>
+  <widget class="SampleIdLineEdit" name="leSampleId">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>70</y>
+     <width>200</width>
+     <height>35</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="DateLineEdit" name="leSendDate">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>70</y>
+     <width>120</width>
+     <height>35</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="TimeLineEdit" name="leSendTime">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>70</y>
+     <width>60</width>
+     <height>35</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="rbFemale">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>120</y>
+     <width>90</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Female</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="leName">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>120</y>
+     <width>200</width>
+     <height>35</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="rbMale">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>120</y>
+     <width>90</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Male</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbGender">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>120</y>
+     <width>80</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Gender</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbName">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>120</y>
+     <width>80</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Name</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="leSpecies">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>15</y>
+     <width>200</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Species</string>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>LineEdit</class>
+   <extends>QLineEdit</extends>
+   <header>lineedit.h</header>
+  </customwidget>
+  <customwidget>
+   <class>DateLineEdit</class>
+   <extends>LineEdit</extends>
+   <header>datelineedit.h</header>
+  </customwidget>
+  <customwidget>
+   <class>TimeLineEdit</class>
+   <extends>LineEdit</extends>
+   <header>timelineedit.h</header>
+  </customwidget>
+  <customwidget>
+   <class>SampleIdLineEdit</class>
+   <extends>LineEdit</extends>
+   <header>sampleidlineedit.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

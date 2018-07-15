@@ -1,0 +1,149 @@
+CAP赤TULO 3 AN芍LISIS DE MUESTRA
+3.1 Preparaci車n antes del inicio
+Antes de  cada  puesta  en  marcha,  el  operador  debe  hacer  las  siguientes comprobaciones: 
+Comprobar  que  la  tuber赤a  del  Diluente  y  de  residuos no  est芍n  dobladas, distorsionados, o plegados y si la conexi車n es segura. 
+Compruebe si la conexi車n del cable de alimentaci車n es segura. 
+Comprobar si la conexi車n de los accesorios es segura.
+3.2 Inicio 
+Pulse el bot車n de encendido en el panel posterior del instrumento, el indicador luminoso de encendido del panel frontal del instrumento debe estar prendido. El instrumento realiza autom芍ticamente el programa de inicializaci車n. 
+Despu谷s  de  completar  la  inicializaci車n,  el  instrumento  tendr芍  acceso  a  la ventana  de  auto-prueba.  Pone  a  prueba  las condiciones de  trabajo  de  cada parte y si hay suficiente Diluente y lisante. Al mismo tiempo purga y limpia la tuber赤a. 
+Despu谷s de la auto-prueba, el instrumento acceder芍 a la ventana de an芍lisis de sangre, como se muestra en la Figura 3-1. 
+Si  el  sistema  detecta  un  mal  funcionamiento,  la  informaci車n  del  error  se visualiza en la Secci車n de Informaci車n.
+ 
+	                
+Figura 3-1
+Las funciones del sistema son las siguientes: 
+Info: En esta funci車n puede ingresar y modificar la informaci車n de la muestra siguiente.
+Imprimir: Imprime los datos de la muestra actual. 
+Enjuague: Para librarse de la obstrucci車n de apertura.
+Funci車n: Utilizado para cambiar el Tipo de muestra, ajustar la l赤nea de clasificaci車n de resultados actual y dispensar Diluente para realizar las pruebas prediluida
+Men迆: Para ingresar al men迆 principal.
+3.2.1 Funci車n
+En  la  ventana  principal  del  analizador,  presione  ※Funci車n§  para  ingresar  a  esta secci車n. Como la figura 3-2.
+ 
+Figura 3-2
+Las funciones de esta secci車n son las siguientes: 
+Tipo de muestra: Elija el modo de muestra entre el modo de sangre venosa, modo de sangre capilar y modo Prediluido.
+Tipo Vet: Elegir la especie de animal.
+Histograma:  Ingrese  a  la  ventana  de  ajuste  del  histograma  de  la  muestra actual. Puede ajustar manualmente los histogramas de la muestra actual.
+3.3 Prueba de fondo (blanco)
+Se recomienda realizar la prueba de fondo normalmente cada vez despu谷s de la  puesta  en  marcha  del  instrumento.  El  operador  tambi谷n  puede  realizar  la prueba  de  fondo  si  es necesario.  Los procedimientos de  operaci車n  son  los siguientes: 
+a) En  la  ventana  del  analizador,  pulse  bot車n  "Info",  y  aparece  la  ventana  de editar  informaci車n. A continuaci車n, en el cuadro de texto Pulse en el  ID y cambiar el ID como 999. A continuaron pulse "OK", y regresa a la pantalla principal de visualizaci車n del analizador. 
+b)  En  el  modo  seleccionado  venoso  o  capilar,  presione  la  tecla  de  "INICIO" ubicada debajo de la aguja de la muestra  para iniciar directamente el recuento de  fondo.  En  el  modo  prediluido,  la  aguja  de  muestra  aspira  un  poco  de Diluente no contaminado de la copilla de la muestra para el recuento de fondo. 
+El m谷todo de uso del Diluente es el siguiente (Al analizar la muestra en el modo prediluido, tambi谷n es necesario hacer la diluci車n de la muestra con el Diluente antes de ser aspirada por el instrumento): 
+1)  En el 芍rea de operaci車n del men迆, pulse Funci車n y establecer el tipo de muestra como Prediluida como modo de muestra. 
+2)  En el 芍rea de operaci車n del men迆, seleccione "Diluente"; 
+3) Coloque una copilla o tubo de muestras vac赤o y limpio debajo de la aguja de la muestra, presione "INICIO" para dispensar el Diluente en el recipiente para muestras. Pulse el bot車n "INICIO" una vez, el Diluente se dispensa en la cubeta de muestra o tubo una vez. (La cantidad se puede utilizar para el recuento de fondo en el modo prediluido). 
+Pulse el bot車n "REGRESAR", para regresar a la pantalla de operaci車n principal del instrumento. 
+c) El rango permisivo de los resultados de pruebas de fondo se muestran en la tabla siguiente:
+	Par芍metros 	Datos 
+WBC 	≒ 3 x 109/L
+RBC 	≒ 0.03 x 1012/ L 
+HGB 	≒ 1 g / L
+HCT	≒ 0.5 % 
+PLT 	≒ 5x 109/ L 
+Si  el  valor  de  la  prueba  de  fondo  supera  el  rango  permisivo, repita  los procedimientos de la prueba hasta que el resultado de la prueba sea aceptable. 
+Si el ensayo se ha realizado en m芍s de cinco veces, y el resultado de la prueba todav赤a no puede alcanzar el nivel requerido. Por favor, consulte el Cap赤tulo 10 de este manual "Soluci車n de problemas".
+Aviso: En la prueba de fondo solo cinco par芍metros pueden ser probados y mostrados como lo son WBC, RBC, HGB, HCT, PLT.
+Aviso: El n迆mero 999 es un n迆mero especial solo para la prueba de fondo.
+3.4 Control de Calidad 
+Si es necesario realizar un control de calidad en la instalaci車n por primera vez o antes del an芍lisis de muestra diario. M芍s informaci車n y procedimientos se dan en el cap赤tulo 4 "Control de Calidad".
+3.5  Preparaci車n y recolecci車n de muestras
+La muestra puede ser recogida ya sea a partir de sangre capilar o de sangre venosa.
+3.5.1 Recolecci車n de sangre venosa
+Es posible recoger la sangre venosa mediante el uso de un tubo al vac赤o o el m谷todo de recogida com迆n. 
+De antemano a adir alg迆n anticoagulante en el tubo de recogida de la sangre venosa.  EDTA.K  2.2H  2O    es com迆nmente  usado  como  anticoagulante,  cuyo contenido est芍 especificado 1.5-2.2mg/ml.
+3.5.2    Extracci車n de sangre capilar
+Partes para la recolecci車n de sangre: 
+1.  Frote suavemente la parte de extracci車n de sangre para que fluya naturalmente,  limpie  parcialmente  la  piel  con  un  tamp車n  que contenga  75% de alcohol. 
+2.  Apriete  r芍pidamente  la  parte  de  perforaci車n  y  punci車n  con  la aguja de muestra as谷ptica. La profundidad de la perforaci車n es de aproximadamente 2 a 3 mm. 
+3.  Limpie la primera gota de sangre, y luego iniciar la recolecci車n. 
+4.  Despu谷s de  terminar  la  recolecci車n  presione  la  herida  con algod車n por un momento.
+Aviso: La  recolecci車n  de  sangre  capilar  debe  seguir  el  est芍ndar  profesional  de extracci車n de sangre capilar. El m谷todo general es centesis (punci車n) parcial.
+Precauci車n: Si  la  sangre  no  fluye  libremente,  pulse  lejos de  la  herida, no  alrededor  de  la herida.  Evite  hacer  la  mezcla  de  histiocitos en  la  sangre,  dando  lugar  a resultados anal赤ticos incorrectos.  
+3.5.3 Preparar las muestras en el modo Prediluido
+En  la  ventana  principal  del  analizador,  seleccione  en  el  men迆  de  operaci車n 
+"Modo de muestra / Prediluido". A continuaci車n, seleccione "Diluente". Cuando 
+el  "Diluente"  aparece,  coloque  una  copilla  o  tubo  limpio  para  muestras oblicuamente bajo la sonda. Pulse el bot車n "INICIO". El instrumento comienza a agregar Diluente cuantificadamente. Al agregar el Diluente, el indicador de luz parpadea r芍pidamente. Limpiar las gotas en la parte superior de la aguja de la  muestra  en  la  copilla  de  muestra  cuando  el  indicador  de  luz  parpadee lentamente. 
+Recoger  20-mL  de  muestra  capilar  en  la  pipeta.  Limpie  la  sangre  unida  a  la capa  exterior  de  la  pipeta  con un pa o limpio.  Inmediatamente  mezclar  la muestra en el recipiente de muestra con el Diluente.
+Precauci車n: Cuando  se  a ade  el  Diluente,  la  copilla  de  muestra  debe  ser  colocada 
+oblicuamente  debajo  de  la  aguja  de  muestra,  esto  permite  que  el  Diluente corra por la pared de la copilla sin que se formen burbujas de aire.  
+Aviso: Si hay necesidad de preparar muestras en cantidades en el modo prediluido, el 
+usuario  puede  utilizar  la  funci車n  "prediluida"  para  preparar  continuamente  el Diluente.
+3.5.4 Preparar muestras en modo capilar
+Recoger  40-mL  de  muestra  capilar  en  las pipetas.  A adir  inmediatamente  la muestra en la copilla de muestra con el anticoagulante. Tambi谷n puede a adir la sangre capilar en la copilla de muestra con anticoagulante directamente.
+3.5.5 Homogeneizaci車n de la muestra
+Las muestras de sangre deben estar completamente homogeneizadas antes de su  uso.  El  m谷todo  recomendado  es:  Agitar  el  tubo  hacia  arriba  y  abajo  3-5 minutos, se recomienda utilizar un mezclador de sangre para garantizar que la muestra  est芍  completamente  homogenizada  y  garantizar  la  exactitud  de  la medici車n.
+Precauci車n: Si la muestra se ha colocado en reposo un largo tiempo o se mezcla de forma inadecuada,  puede  f芍cilmente  provocar  un  error  de  medici車n  y  resultados incorrectos en  la prueba. 
+Precauci車n: Evite sacudir violentamente la pipeta. 
+Precauci車n: La muestra s車lo se puede almacenar a temperatura ambiente, y la prueba debe realizarse en un t谷rmino de 4 horas.
+3.6 Recuento y an芍lisis de muestras
+Despu谷s de terminar la recolecci車n de muestras, realizar el procedimiento de recuento y el an芍lisis de la siguiente manera.
+3.6.1 Ingreso de informaci車n de la muestra
+En  la  ventana    principal  del  analizador,  haga  clic en  bot車n  "Info",  aparece  la ventana  de  editar informaci車n .  Pulse en la ventana para ingresar la informaci車n que desee. Ingrese o seleccione los datos y pulse "OK". El instrumento guardar芍 la informaci車n que ingreso y vuelve a la ventana principal del  analizador.  Al  pulsar  "Cancelar",  el  instrumento  anula  la  informaci車n ingresada y vuelve a la ventana  principal del analizador. 
+Nombre: M芍ximo 19 letras. 
+Sexo: Selecciona macho o hembra,  este 赤tem esta predeterminado. 
+Edad: Elija  entre  a o,  mes y  d赤a.  M芍ximo  3  n迆meros en  el  campo  a os; m芍ximo 2 n迆meros en los campos de mes y d赤a.
+Sangre tipo: Elija  entre  A,  B,  O,  AB,  Rh  +,  Rh-.  El  valor  predeterminado  est芍  en blanco. 
+Muestra tipo: El modo de muestra actual. 
+Record Numero: M芍ximo 15 letras. 
+Cama: M芍ximo 12 letras. 
+ID: El  rango  de  entrada  es: 001  -  998.  El  instrumento  posee  un  contador inteligente. El n迆mero final de entrada se deriva de la informaci車n completa que se  registra  en  el  instrumento  de  a o,  mes y  de  acuerdo  con  la  fecha  de medici車n. Si el usuario no introduce el n迆mero de serie, el instrumento acumula el n迆mero de ID diario iniciando del 001 y aumentando consecutivamente por cada muestra pasada diariamente. 
+Departamento: Puede  elegir  la  informaci車n  grabada  en departamento del cuadro de texto opcional a la derecha, o autom芍ticamente por el instrumento despu谷s de  introducir  el  c車digo  del  departamento  en  el  cuadro  de  texto  de entrada de la izquierda. 
+Encargado: Puede elegir la informaci車n grabada del m谷dico desde el cuadro de texto opcional a la derecha, o autom芍ticamente por el instrumento despu谷s de  introducir  el  c車digo  del  m谷dico  en  el  campo  de  texto  de  entrada  de  la izquierda. 
+Operador: Puede elegir la informaci車n grabada del m谷dico desde el cuadro de texto opcional a la derecha, o autom芍ticamente por el instrumento despu谷s de introducir el c車digo del m谷dico en el campo de texto de entrada de la izquierda. 
+Doctor: M芍ximo  19  letras.  Tambi谷n  puede  elegir  la  informaci車n  grabada  del m谷dico desde el cuadro de texto opcional a la derecha, o autom芍ticamente por el instrumento despu谷s de introducir el c車digo del m谷dico en el campo de texto de entrada de la izquierda. 
+AVISO: El n迆mero 999 es un n迆mero especial para la prueba de fondo (blanco). Por favor, no introduzca este n迆mero al realizar pruebas con muestras de sangre.
+Aviso: Si  requiere  ingresar  informaci車n  de  muchas pruebas,  el  usuario  puede concentrarse  en  la  introducci車n  de  la  informaci車n  en  la  ventana  de  revisi車n despu谷s de finalizada la prueba.
+3.6.2 Procedimiento de an芍lisis y recuento de muestras
+a) Coloque el recipiente de muestra debajo de la aguja de muestra, presione la tecla de "INICIO". El instrumento comienza a aspirar el l赤quido. 
+b) El instrumento autom芍ticamente comienza a analizar la muestra. Espere el resultado del an芍lisis. 
+c)  Una  vez  finalizado  el  an芍lisis,  el  resultado  se  mostrar芍  y  los par芍metros correspondientes se visualizan en la pantalla del analizador, con histogramas de WBC, RBC y PLT.  
+Si en los ajustes de la impresora en "Auto" se selecciona "ON", se imprimir芍 los resultados de la prueba de forma autom芍tica. 
+Si hay obstrucciones durante el proceso de conteo en el an芍lisis, en la secci車n de informaci車n se mostrar芍 "obstrucci車n".
+3.6.3 Par芍metros de alarma
+"C": Para indicar que en la prueba aparece una obstrucci車n.
+ "B": Para indicar que en la prueba aparece una burbuja. 
+"  ∣ ": Para indicar que los datos han excedido el l赤mite inferior de la alarma de configuraci車n del par芍metro. 
+"  ∥": Para indicar que los datos han excedido el l赤mite superior de la alarma de configuraci車n del par芍metro. 
+"***": Para indicar que los datos son inv芍lidos.
+Aviso: Cuando  se  produce  la  alarma  PM  en  el  histograma  PLT,  el  resultado  del par芍metro  PDW es "***".
+Aviso: Si  el  resultado  de WBC  es menor  que  0.5D10 /L,  el  sistema  no  realizar芍  el diferencial de leucocitos. La pantalla de todos los par芍metros relacionados con recuento diferencial de leucocitos ser芍 "***".
+3.6.4 Alarma de Histograma
+"R1":  Para  indicar  la  anomal赤a  de  la  curva  de  linfocitos a  la  izquierda.  Se pueden  presentar  plaquetas coaguladas,  plaquetas grandes,  gl車bulos rojos nucleados, gl車bulos rojos insolubles, linfocitos anormales, prote赤na, etc
+"R2":  Para  indicar  la  anomal赤a  entre  el  芍rea  de  linfocitos y  las c谷lulas de tama o  medio  ※MID§.  Se  puede  presentar  linfocitos at赤picos,  linfocitos anormales, c谷lulas plasm芍ticas o el aumento del n迆mero de los eosin車filos o bas車filos. 
+"R3": Para  indicar  la  anomal赤a  entre  las c谷lulas de  tama o  medio  y neutr車filos.  Se  pueden  presentar  neutr車filos inmaduros,  sub-poblaci車n anormal en la muestra, o el aumento del n迆mero de los eosin車filos. 
+"R4":  Para  indicar  la  anomal赤a  en  el  芍rea  derecha  de  los neutr車filos.  Se muestra el aumento del n迆mero de los neutr車filos. 
+"RM":  para  indicar  que  en  m芍s  de  dos  芍reas  se  produce  anormalidad simult芍neamente. 
+"PM": Para indicar anormalidad en la definici車n de la demarcaci車n entre la zona de  plaquetas y  gl車bulos rojos.  Plaquetas grandes,  coagulaci車n  de  plaquetas, c谷lulas de  sangre  peque as de  color  rojo,  pueden  salir  restos celulares o fibrina.
+
+3.7  Modificaci車n de resultados de an芍lisis.
+Si  el  usuario  cree  que  los resultados de  WBC,  RBC,  PLT  diferencial  no  pueden satisfacer las necesidades de la clasificaci車n de las muestras especiales en cl赤nicas o de laboratorio, se puede ajustar manualmente los histogramas. 
+Operar芍 as赤: 
+a) En  la  ventana  del  analizador  seleccione  ※Funci車n§  a  continuaci車n  seleccione "Histograma". El instrumento accede a la ventana de ajuste de histograma, como se muestra en la figura 3-2. Pulse el bot車n "Grafico" para ajustar el histograma.
+ 
+Figura 3-2
+b) Despu谷s de seleccionar el grafico, pulse el bot車n "L赤nea", y seleccionar la l赤nea de clasificaci車n que desea ajustar. 
+c) Pulse el bot車n "Izquierda" o "Derecha", se puede mover la l赤nea de clasificaci車n a la 
+izquierda  o  a  la  derecha,  los datos de  la  l赤nea  se  muestran  en  la  esquina  superior derecha de la pantalla. 
+d) Pulse el bot車n "Regresar" cuando el ajuste est谷 terminado. Si en esta operaci車n no se 
+realiz車  ning迆n  cambio  de  datos,  el  sistema  volver芍  a  la  ventana  del  analizador directamente. O si no, aparece en la ventana "Aceptar / Cancelar". Pulse el bot車n "OK" para guardar el resultado del ajuste, mientras que si selecciona "Cancelar" se cancela el ajuste realizado.
+Precauci車n: Un ajuste manual innecesario e incorrecto causar芍 resultados anal赤ticos poco fiables. 
+Aseg迆rese de que es necesario en la operaci車n.
+Precauci車n: Si  el  resultado  de  WBC  es menor  que  0.5D10  /  L,  el  sistema  no  realizar芍 autom芍ticamente diferencial de leucocitos.
+3.8 Apagado
+La  rutina  de  apagado  se  debe  realizar  antes de  desconectar  la  alimentaci車n diariamente. 
+Durante  el  procedimiento  de  apagado,  el  instrumento  realizar芍  el mantenimiento diario y limpiara los tubos de forma autom芍tica. 
+Los procedimientos son: 
+a)  En  la  ventana  del  analizador,  pulse  el  bot車n  ※MENU§  a  continuaci車n seleccione ※APAGADO§, aparece la ventana de apagado, como se muestra en la Figura siguiente.
+
+
+
+	
+b) Si no desea apagar el instrumento, por el momento, Pulse en el  "Cancelar" para volver a la ventana principal del analizador. 
+c)  Pulse  el  bot車n  "OK",  el  instrumento  realizar芍  el  mantenimiento  diario  y limpiara el tubo de medici車n. Cuando termine el procedimiento de apagado, en la pantalla muestra el mensaje "Por favor apague el poder", desconectando la alimentaci車n en el panel posterior del instrumento. 
+
+ 
+Figura 3-6
+d) Limpiar la mesa de trabajo y eliminar los residuos
+Aviso: No desconecte la alimentaci車n del instrumento directamente mientras realiza el procedimiento de apagado.

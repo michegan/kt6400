@@ -1,0 +1,35 @@
+set(modulename selftest)
+
+set(${modulename}_moc_files 
+    ${modulename}/motordialog.h
+    ${modulename}/selftestwin.h
+    ${modulename}/valvedialog.h
+    ${modulename}/sensordialog.h
+    ${modulename}/versiondialog.h
+    ${modulename}/otherselftestdialog.h
+)
+
+set(${modulename}_uic_files 
+    ${modulename}/motordialog.ui
+    ${modulename}/selftestwin.ui
+    ${modulename}/valvedialog.ui
+    ${modulename}/sensordialog.ui
+    ${modulename}/versiondialog.ui
+    ${modulename}/otherselftestdialog.ui
+)
+
+set(${modulename}_source_files 
+    ${modulename}/motordialog.cpp
+    ${modulename}/selftestwin.cpp
+    ${modulename}/valvedialog.cpp
+    ${modulename}/sensordialog.cpp
+    ${modulename}/versiondialog.cpp
+    ${modulename}/otherselftestdialog.cpp
+)
+
+set(include_dir  ${include_dir}  ${CMAKE_CURRENT_SOURCE_DIR}/${modulename})
+set(moc_files    ${moc_files}    ${${modulename}_moc_files})
+set(uic_files    ${uic_files}    ${${modulename}_uic_files})
+set(source_files ${source_files} ${${modulename}_source_files})
+
+source_group(${modulename} FILES ${${modulename}_moc_files} ${${modulename}_uic_files} ${${modulename}_source_files})

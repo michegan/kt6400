@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>  
+  <items id = "VERSION">
+    <!-- 引导软件 -->
+    <item id = "UBOOT" value = ""/>
+    <!-- 操作系统 -->
+    <item id = "KERNEL" value = ""/>
+
+    <!-- 应用程序 -->
+    <item id = "APP" value = ""/>
+    <!-- 时序 -->
+    <item id = "TIMESEQ" value = ""/>
+    <!-- 算法 -->
+    <item id = "ALG" value = ""/>
+
+    <!-- MCU -->
+    <item id = "MCU" value = ""/>
+    <!-- FPGA -->
+    <item id = "FPGA" value = ""/>
+  </items>
+</root>

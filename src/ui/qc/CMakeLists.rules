@@ -1,0 +1,33 @@
+set(modulename qc)
+
+set(${modulename}_moc_files 
+    ${modulename}/ljqcfilewin.h
+    ${modulename}/ljqclistwin.h
+    ${modulename}/ljqcgraphwin.h
+    ${modulename}/ljqcsetupwin.h
+    ${modulename}/ljqctablewidget.h
+    ${modulename}/ljqcfiletablewidget.h
+)
+
+set(${modulename}_uic_files 
+    ${modulename}/ljqcfilewin.ui
+    ${modulename}/ljqclistwin.ui
+    ${modulename}/ljqcgraphwin.ui
+    ${modulename}/ljqcsetupwin.ui
+)
+
+set(${modulename}_source_files 
+    ${modulename}/ljqcfilewin.cpp
+    ${modulename}/ljqclistwin.cpp
+    ${modulename}/ljqcgraphwin.cpp
+    ${modulename}/ljqcsetupwin.cpp
+    ${modulename}/ljqctablewidget.cpp
+    ${modulename}/ljqcfiletablewidget.cpp
+)
+
+set(include_dir  ${include_dir}  ${CMAKE_CURRENT_SOURCE_DIR}/${modulename})
+set(moc_files    ${moc_files}    ${${modulename}_moc_files})
+set(uic_files    ${uic_files}    ${${modulename}_uic_files})
+set(source_files ${source_files} ${${modulename}_source_files})
+
+source_group(${modulename} FILES ${${modulename}_moc_files} ${${modulename}_uic_files} ${${modulename}_source_files})

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MenuWin</class>
+ <widget class="QWidget" name="MenuWin">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MenuWin</string>
+  </property>
+  <widget class="QPushButton" name="pbCount">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>310</y>
+     <width>160</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Measure</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pbReview">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>310</y>
+     <width>160</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Review</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pbQc">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>310</y>
+     <width>160</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>QC</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pbCalibrate">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>390</y>
+     <width>160</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Calibration</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pbSetup">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>470</y>
+     <width>160</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Setup</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pbMaintain">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>390</y>
+     <width>160</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Maintain</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pbLogOff">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>470</y>
+     <width>160</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Log off</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pbSelftest">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>390</y>
+     <width>160</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Selftest</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pbShutdown">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>470</y>
+     <width>160</width>
+     <height>60</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Shutdown</string>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

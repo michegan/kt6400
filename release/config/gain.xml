@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <items id = "GAIN">
+    <item id = "WBC" value = "120"/>
+    <item id = "RBC" value = "84"/>
+    <item id = "HGB" value = "128"/>
+  </items>
+</root>

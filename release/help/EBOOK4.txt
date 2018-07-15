@@ -1,0 +1,83 @@
+CAP赤TULO 4         CONTROL DE CALIDAD
+El  control  de  calidad  mide  la  precisi車n,  exactitud  y  la  reproducibilidad  del sistema.  El  control  de  calidad  proporciona m谷todos fiables y  eficaces para  la detecci車n y prevenci車n de posibles errores del sistema. 
+Errores del  sistema  pueden  causar  resultados anal赤ticos de  la  muestra  poco confiables. Para mantener la fiabilidad de los resultados anal赤ticos, se requiere pasar peri車dicamente los controles de calidad del instrumento. 
+El  instrumento  proporciona  al  usuario  9  archivos para  el  control  de  calidad. 
+Esto permite al operador ejecutar el control de calidad para los 12 par芍metros al mismo tiempo. 
+Primero  seleccione  un  archivo  de  control  de  calidad,  Ingrese  los datos del control  indicados  en  los insertos,  la  media    y  el  l赤mite.  El  sistema  permite  al operador correr el control de calidad para los 12 par芍metros o para algunos de los 12 par芍metros.
+Precauci車n: Los controles deben ser almacenados en condiciones apropiadas.
+Precauci車n: No usar controles deteriorados o fuera de su fecha de caducidad.
+Precauci車n: Aseg迆rese de usar el control de calidad en una hora determinada diariamente.
+4.1   Editar archivos de control de calidad
+Los procedimientos de operaci車n son los siguientes: 
+
+a) En la ventana del analizador, pulse el bot車n ※MENU§ Seleccione  ※Control de calidad§  y  luego  seleccione CC Editar  "Editar  control  de  calidad".  El  instrumento muestra la ventana de edici車n de control de calidad, tal como se muestra en la figura 4-1.
+ 
+Figura 4-1
+b)  En  la  ventana  de  edici車n  del  control  de  calidad,  seleccione  el  archivo  de control de calidad que desee. 
+c) Ingrese n迆mero de lote y caducidad. Datos del control, ingresar los valores de la media y los l赤mites de los par芍metros del control de calidad. 
+d) Pulse el bot車n "Guardar" para almacenar los datos del archivo de control de calidad actual. 
+e)  Pulse  la  tecla  "Borrar"  para  eliminar  los datos del  archivo  de  control  de calidad actual. 
+f)  Pulse  "Regresar"  para  guardar  los  datos  del  archivo  de  control  de  calidad actual y volver a la ventana principal del analizador.
+
+Aviso: Si la informaci車n de alg迆n par芍metro es invalida, el sistema tomar芍 la media y el l赤mite como sin asignaci車n. 
+Es necesario  re-ingresar  la  informaci車n,  O  bien,  el  control  de  calidad  s車lo actuar芍 sobre otros par芍metros.
+Aviso: Si el n迆mero de lote o fecha de caducidad no es v芍lido, el sistema lo tomar芍 como si no tuviera ninguna asignaci車n. Es necesario re-ingresar este n迆mero, 
+O de lo contrario el archivo de control de calidad no podr芍 ejecutar el programa de control de calidad.
+
+4.2   Correr control de calidad
+Ingresados los par芍metros del control de calidad,  correr el control de calidad en el archivo especificado. 
+Los procedimientos de operaci車n son los siguientes: 
+a)  En  la  ventana  principal  del  analizador,  pulse  el  bot車n  ※men迆§,  seleccione control de calidad, en esta ventana seleccionar ※QCR§. El instrumento muestra la ventana de ejecuci車n del control de calidad, como se muestra en la figura 4-2. 
+ 
+Figura 4-2
+b)  Preparar  los controles,  agitar  bien  el  contenedor  para  realizar  una  buena mezcla.
+c) Coloque el control debajo de la aguja de muestra. Pulse el bot車n "INICIO", el indicador comenzar芍 a brillar en el panel frontal del instrumento, el instrumento aspira el control, retirar el control cuando  la sonda suba  a realizar el proceso de medici車n. 
+d)  Cuando  la  medici車n  ha  terminado,  el  resultado  se  muestra  en  una  de  las columnas de  la  ventana  actual.  Si  se  produce  una  alarma  en  la  medici車n,  el resultado actual puede ser incorrecto. 
+Pulse la tecla "Borrar" para eliminar el resultado y pruebe de nuevo despu谷s de que el problema este resuelto. 
+e) Pulse el bot車n "Regresar", el instrumento volver芍 a la ventana principal del analizador.
+
+Aviso: Cada archivo de control de calidad puede almacenar hasta 31 datos de CC.
+
+4.3  Grafico del control de calidad
+El gr芍fico proporciona una observaci車n visual de los datos de control, lo que permite  al  operador  observar  las desviaciones,  posibles tendencias o  los cambios del rendimiento del instrumento. 
+En  la  ventana  principal  del  analizador,  pulse  ※MENU§  seleccione  ※Control de Calidad§  en  esta  ventana  seleccionar  CCGraficos  "Gr芍ficos de  control  de calidad" seleccione el archivo de control de calidad que desee. El instrumento muestra la ventana gr芍ficos de control de calidad, como se muestra en la figura 4-3.
+ 
+Figura 4-3
+La pantalla puede mostrar 1 par芍metro de un archivo de QC al mismo tiempo. 
+La figura muestra el n迆mero de lote, fecha, n迆mero y distribuci車n de los datos de CC. Pulse en el  la barra de desplazamiento a la derecha de la pantalla. 
+Usted puede verificar la continuidad de las gr芍ficas de control de calidad de los diferentes par芍metros. 
+Los siete par芍metros en el lado izquierdo de las gr芍ficas de control de calidad de arriba abajo son: 
+Media    + limite 3 
+Media    + limite 2 
+Media    + limite 1 
+Media     
+Media    - limite 1 
+Media    - limite 2 
+Media    - limite 3 
+Los tres par芍metros en la parte derecha de los gr芍ficos de control de calidad de arriba abajo son:
+Media: valor medio 
+Diff: desviaci車n est芍ndar 
+CV: coeficiente de variaci車n 
+La l赤nea vertical en el medio de las gr芍ficas de control indica el n迆mero actual elegido. Pulse en el  la barra de desplazamiento a la izquierda de la pantalla. 
+Puede seleccionar continuamente un n迆mero diferente. 
+El  n迆mero  elegido  se  muestra  en  el  cuadro  de  datos debajo  del  par芍metro correspondiente.  La  fecha/hora  para  el  n迆mero  de  prueba  seleccionado  se muestra en el cuadro de tiempo en la pantalla.
+En  la  ventana  de  gr芍ficos  de  control  de  calidad,  las  siguientes  marcas        representan: 
+La marca "*" entre la l赤nea discontinua representa el punto que est芍 dentro del rango de control. 
+De lo contrario, est芍 fuera del rango de control. 
+La marca "." representa el valor del par芍metro que est芍 por fuera del rango de 
+operaci車n,  o  se  ha  producido  un  error  durante  su  respectiva  ejecuci車n.  En blanco representa que no se ha corrido ning迆n control de calidad. 
+Pulse  el  bot車n  "Imprimir",  se  imprimir芍  los  datos  de  los par芍metros de  la pantalla. 
+Pulse "Regresar" para volver a la ventana principal del analizador.
+4.4    Tabla de control de calidad
+El  instrumento  proporciona  en  formato  tabular  para  la  revisi車n  de  control  de calidad.  En  la  ventana  principal  del  analizador,  pulse  el  bot車n  ※MENU§ seleccione  ※Control de Calidad§  seleccione  CCLista  "Lista  de  control  de calidad" seleccione el archivo de control de calidad que desee. El instrumento muestra la ventana de lista de control de calidad, como se muestra en la figura 4-4.
+
+
+
+
+
+ 
+Figura 4-4
+La pantalla puede mostrar los 12 par芍metros de control de calidad de 7 grupos diferentes al mismo tiempo. 
+Utilice  la  barra  de  desplazamiento  para  seleccionar  un  n迆mero  de  serie diferente. 
+Pulse  el  bot車n  "Imprimir",  se  imprimir芍  los  datos  de  los par芍metros de  la pantalla. 
+Pulse "Regresar" para volver a la ventana principal del analizador.

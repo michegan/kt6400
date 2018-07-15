@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <items id = "PRINT">
+    <!-- 打印机 -->
+    <item id = "PRINTER" value = "IDS_THERMAL_PRINTER"/>
+    <!-- 外置打印机报告单 -->
+    <item id = "USB_REPORT" value = "IDS_USB_VERTIVAL_REPORT"/>
+    <!-- 热敏打印机报告单 -->
+    <item id = "THERMAL_REPORT" value = "IDS_THERMAL_VERTIVAL_REPORT"/>
+    <!-- 打印图形 -->
+    <item id = "PRINT_GRAPH" value = "0"/>
+  </items>
+</root>

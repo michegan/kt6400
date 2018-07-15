@@ -1,0 +1,38 @@
+set(modulename count)
+
+set(${modulename}_moc_files
+    ${modulename}/countwin.h
+    ${modulename}/histeditdialog.h
+    ${modulename}/modeeditdialog.h
+    ${modulename}/adddiluentdialog.h
+    ${modulename}/nextpeteditdialog.h
+    ${modulename}/specieseditdialog.h
+    ${modulename}/nextsampleeditdialog.h
+)
+
+set(${modulename}_uic_files
+    ${modulename}/countwin.ui
+    ${modulename}/histeditdialog.ui
+    ${modulename}/modeeditdialog.ui
+    ${modulename}/adddiluentdialog.ui
+    ${modulename}/nextpeteditdialog.ui
+    ${modulename}/specieseditdialog.ui
+    ${modulename}/nextsampleeditdialog.ui
+)
+
+set(${modulename}_source_files
+    ${modulename}/countwin.cpp
+    ${modulename}/histeditdialog.cpp
+    ${modulename}/modeeditdialog.cpp
+    ${modulename}/adddiluentdialog.cpp
+    ${modulename}/nextpeteditdialog.cpp
+    ${modulename}/specieseditdialog.cpp
+    ${modulename}/nextsampleeditdialog.cpp
+)
+
+set(include_dir  ${include_dir}  ${CMAKE_CURRENT_SOURCE_DIR}/${modulename})
+set(moc_files    ${moc_files}    ${${modulename}_moc_files})
+set(uic_files    ${uic_files}    ${${modulename}_uic_files})
+set(source_files ${source_files} ${${modulename}_source_files})
+
+source_group(${modulename} FILES ${${modulename}_moc_files} ${${modulename}_uic_files} ${${modulename}_source_files})

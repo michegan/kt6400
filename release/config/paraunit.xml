@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <!-- 中国 -->
+  <items id = "CHINA">
+    <item id = "WBC" value = "10^9/L"/>
+    <item id = "LYM%" value = "%"/>
+    <item id = "MID%" value = "%"/>
+    <item id = "GRAN%" value = "%"/>
+    <item id = "LYM#" value = "10^9/L"/>
+    <item id = "MID#" value = "10^9/L"/>
+    <item id = "GRAN#" value = "10^9/L"/>
+
+    <item id = "RBC" value = "10^12/L"/>
+    <item id = "HGB" value = "g/L"/>
+    <item id = "HCT" value = "%"/>
+    <item id = "MCV" value = "fL"/>
+    <item id = "MCH" value = "pg"/>
+    <item id = "MCHC" value = "g/L"/>
+    <item id = "RDW-CV" value = "%"/>
+    <item id = "RDW-SD" value = "fL"/>
+
+    <item id = "PLT" value = "10^9/L"/>
+    <item id = "MPV" value = "fL"/>
+    <item id = "PCT" value = "%"/>
+    <item id = "PDW" value = ""/>
+    <item id = "PLCR" value = "%"/>
+    <item id = "PLCC" value = "10^9/L"/>
+  </items>
+
+  <!-- 国际 -->
+  <items id = "INTERNAL">
+    <item id = "WBC" value = "10^9/L"/>
+    <item id = "LYM%" value = ""/>
+    <item id = "MID%" value = ""/>
+    <item id = "GRAN%" value = ""/>
+    <item id = "LYM#" value = "10^9/L"/>
+    <item id = "MID#" value = "10^9/L"/>
+    <item id = "GRAN#" value = "10^9/L"/>
+
+    <item id = "RBC" value = "10^12/L"/>
+    <item id = "HGB" value = "g/L"/>
+    <item id = "HCT" value = ""/>
+    <item id = "MCV" value = "fL"/>
+    <item id = "MCH" value = "pg"/>
+    <item id = "MCHC" value = "g/L"/>
+    <item id = "RDW-CV" value = ""/>
+    <item id = "RDW-SD" value = "fL"/>
+
+    <item id = "PLT" value = "10^9/L"/>
+    <item id = "MPV" value = "fL"/>
+    <item id = "PCT" value = "mL/L"/>
+    <item id = "PDW" value = "(10GSD)"/>
+    <item id = "PLCR" value = "%"/>
+    <item id = "PLCC" value = "10^9/L"/>
+  </items>
+</root>

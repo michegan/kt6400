@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <!-- 用户 校准系数 -->
+  <items id = "IDS_USER">
+    <items id = "IDS_WHOLE_BLOOD">
+      <item id = "WBC" value = "1.0" date = ""/>
+      <item id = "LYM%" value = "1.0" date = ""/>
+      <item id = "MID%" value = "1.0" date = ""/>
+      <item id = "GRAN%" value = "1.0" date = ""/>
+      <item id = "LYM#" value = "1.0" date = ""/>
+      <item id = "MID#" value = "1.0" date = ""/>
+      <item id = "GRAN#" value = "1.0" date = ""/>
+      <item id = "RBC" value = "1.0" date = ""/>
+      <item id = "HGB" value = "1.0" date = ""/>
+      <item id = "HCT" value = "1.0" date = ""/>
+      <item id = "MCV" value = "1.0" date = ""/>
+      <item id = "MCH" value = "1.0" date = ""/>
+      <item id = "MCHC" value = "1.0" date = ""/>
+      <item id = "RDW-CV" value = "1.0" date = ""/>
+      <item id = "RDW-SD" value = "1.0" date = ""/>
+      <item id = "PLT" value = "1.0" date = ""/>
+      <item id = "MPV" value = "1.0" date = ""/>
+      <item id = "PCT" value = "1.0" date = ""/>
+      <item id = "PDW" value = "1.0" date = ""/>
+      <item id = "PLCR" value = "1.0" date = ""/>
+      <item id = "PLCC" value = "1.0" date = ""/>
+    </items>
+    <items id = "IDS_PERIPHERAL">
+      <item id = "WBC" value = "1.0" date = ""/>
+      <item id = "LYM%" value = "1.0" date = ""/>
+      <item id = "MID%" value = "1.0" date = ""/>
+      <item id = "GRAN%" value = "1.0" date = ""/>
+      <item id = "LYM#" value = "1.0" date = ""/>
+      <item id = "MID#" value = "1.0" date = ""/>
+      <item id = "GRAN#" value = "1.0" date = ""/>
+      <item id = "RBC" value = "1.0" date = ""/>
+      <item id = "HGB" value = "1.0" date = ""/>
+      <item id = "HCT" value = "1.0" date = ""/>
+      <item id = "MCV" value = "1.0" date = ""/>
+      <item id = "MCH" value = "1.0" date = ""/>
+      <item id = "MCHC" value = "1.0" date = ""/>
+      <item id = "RDW-CV" value = "1.0" date = ""/>
+      <item id = "RDW-SD" value = "1.0" date = ""/>
+      <item id = "PLT" value = "1.0" date = ""/>
+      <item id = "MPV" value = "1.0" date = ""/>
+      <item id = "PCT" value = "1.0" date = ""/>
+      <item id = "PDW" value = "1.0" date = ""/>
+      <item id = "PLCR" value = "1.0" date = ""/>
+      <item id = "PLCC" value = "1.0" date = ""/>
+    </items>
+    
+    <items id = "IDS_PREDILUENT">
+      <item id = "WBC" value = "1.0" date = ""/>
+      <item id = "LYM%" value = "1.0" date = ""/>
+      <item id = "MID%" value = "1.0" date = ""/>
+      <item id = "GRAN%" value = "1.0" date = ""/>
+      <item id = "LYM#" value = "1.0" date = ""/>
+      <item id = "MID#" value = "1.0" date = ""/>
+      <item id = "GRAN#" value = "1.0" date = ""/>
+      <item id = "RBC" value = "1.0" date = ""/>
+      <item id = "HGB" value = "1.0" date = ""/>
+      <item id = "HCT" value = "1.0" date = ""/>
+      <item id = "MCV" value = "1.0" date = ""/>
+      <item id = "MCH" value = "1.0" date = ""/>
+      <item id = "MCHC" value = "1.0" date = ""/>
+      <item id = "RDW-CV" value = "1.0" date = ""/>
+      <item id = "RDW-SD" value = "1.0" date = ""/>
+      <item id = "PLT" value = "1.0" date = ""/>
+      <item id = "MPV" value = "1.0" date = ""/>
+      <item id = "PCT" value = "1.0" date = ""/>
+      <item id = "PDW" value = "1.0" date = ""/>
+      <item id = "PLCR" value = "1.0" date = ""/>
+      <item id = "PLCC" value = "1.0" date = ""/>
+    </items>
+  </items>
+
+  <!-- 厂家 校准系数 -->
+  <items id = "IDS_FACTORY">
+    <items id = "IDS_WHOLE_BLOOD">
+      <item id = "WBC" value = "1.0" date = ""/>
+      <item id = "LYM%" value = "1.0" date = ""/>
+      <item id = "MID%" value = "1.0" date = ""/>
+      <item id = "GRAN%" value = "1.0" date = ""/>
+      <item id = "LYM#" value = "1.0" date = ""/>
+      <item id = "MID#" value = "1.0" date = ""/>
+      <item id = "GRAN#" value = "1.0" date = ""/>
+      <item id = "RBC" value = "1.0" date = ""/>
+      <item id = "HGB" value = "1.0" date = ""/>
+      <item id = "HCT" value = "1.0" date = ""/>
+      <item id = "MCV" value = "1.0" date = ""/>
+      <item id = "MCH" value = "1.0" date = ""/>
+      <item id = "MCHC" value = "1.0" date = ""/>
+      <item id = "RDW-CV" value = "1.0" date = ""/>
+      <item id = "RDW-SD" value = "1.0" date = ""/>
+      <item id = "PLT" value = "1.0" date = ""/>
+      <item id = "MPV" value = "1.0" date = ""/>
+      <item id = "PCT" value = "1.0" date = ""/>
+      <item id = "PDW" value = "1.0" date = ""/>
+      <item id = "PLCR" value = "1.0" date = ""/>
+      <item id = "PLCC" value = "1.0" date = ""/>
+    </items>
+    <items id = "IDS_PERIPHERAL">
+      <item id = "WBC" value = "1.0" date = ""/>
+      <item id = "LYM%" value = "1.0" date = ""/>
+      <item id = "MID%" value = "1.0" date = ""/>
+      <item id = "GRAN%" value = "1.0" date = ""/>
+      <item id = "LYM#" value = "1.0" date = ""/>
+      <item id = "MID#" value = "1.0" date = ""/>
+      <item id = "GRAN#" value = "1.0" date = ""/>
+      <item id = "RBC" value = "1.0" date = ""/>
+      <item id = "HGB" value = "1.0" date = ""/>
+      <item id = "HCT" value = "1.0" date = ""/>
+      <item id = "MCV" value = "1.0" date = ""/>
+      <item id = "MCH" value = "1.0" date = ""/>
+      <item id = "MCHC" value = "1.0" date = ""/>
+      <item id = "RDW-CV" value = "1.0" date = ""/>
+      <item id = "RDW-SD" value = "1.0" date = ""/>
+      <item id = "PLT" value = "1.0" date = ""/>
+      <item id = "MPV" value = "1.0" date = ""/>
+      <item id = "PCT" value = "1.0" date = ""/>
+      <item id = "PDW" value = "1.0" date = ""/>
+      <item id = "PLCR" value = "1.0" date = ""/>
+      <item id = "PLCC" value = "1.0" date = ""/>
+    </items>
+    
+    <items id = "IDS_PREDILUENT">
+      <item id = "WBC" value = "1.0" date = ""/>
+      <item id = "LYM%" value = "1.0" date = ""/>
+      <item id = "MID%" value = "1.0" date = ""/>
+      <item id = "GRAN%" value = "1.0" date = ""/>
+      <item id = "LYM#" value = "1.0" date = ""/>
+      <item id = "MID#" value = "1.0" date = ""/>
+      <item id = "GRAN#" value = "1.0" date = ""/>
+      <item id = "RBC" value = "1.0" date = ""/>
+      <item id = "HGB" value = "1.0" date = ""/>
+      <item id = "HCT" value = "1.0" date = ""/>
+      <item id = "MCV" value = "1.0" date = ""/>
+      <item id = "MCH" value = "1.0" date = ""/>
+      <item id = "MCHC" value = "1.0" date = ""/>
+      <item id = "RDW-CV" value = "1.0" date = ""/>
+      <item id = "RDW-SD" value = "1.0" date = ""/>
+      <item id = "PLT" value = "1.0" date = ""/>
+      <item id = "MPV" value = "1.0" date = ""/>
+      <item id = "PCT" value = "1.0" date = ""/>
+      <item id = "PDW" value = "1.0" date = ""/>
+      <item id = "PLCR" value = "1.0" date = ""/>
+      <item id = "PLCC" value = "1.0" date = ""/>
+    </items>
+  </items>
+</root>

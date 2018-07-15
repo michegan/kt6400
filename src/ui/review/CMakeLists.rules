@@ -1,0 +1,30 @@
+set(modulename review)
+
+set(${modulename}_moc_files 
+    ${modulename}/reviewwin.h
+    ${modulename}/reviewsampletable.h
+    ${modulename}/reviewtablewidget.h
+    ${modulename}/reviewdeletedialog.h
+    ${modulename}/reviewsearchdialog.h
+)
+
+set(${modulename}_uic_files 
+    ${modulename}/reviewwin.ui
+    ${modulename}/reviewdeletedialog.ui
+    ${modulename}/reviewsearchdialog.ui
+)
+
+set(${modulename}_source_files 
+    ${modulename}/reviewwin.cpp
+    ${modulename}/reviewsampletable.cpp
+    ${modulename}/reviewtablewidget.cpp
+    ${modulename}/reviewdeletedialog.cpp
+    ${modulename}/reviewsearchdialog.cpp
+)
+
+set(include_dir  ${include_dir}  ${CMAKE_CURRENT_SOURCE_DIR}/${modulename})
+set(moc_files    ${moc_files}    ${${modulename}_moc_files})
+set(uic_files    ${uic_files}    ${${modulename}_uic_files})
+set(source_files ${source_files} ${${modulename}_source_files})
+
+source_group(${modulename} FILES ${${modulename}_moc_files} ${${modulename}_uic_files} ${${modulename}_source_files})

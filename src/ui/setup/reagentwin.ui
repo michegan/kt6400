@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ReagentWin</class>
+ <widget class="QWidget" name="ReagentWin">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ReagentWin</string>
+  </property>
+  <widget class="QLineEdit" name="leLhLyse">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>180</y>
+     <width>200</width>
+     <height>35</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="leDiluent">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>130</y>
+     <width>200</width>
+     <height>35</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbLhLyse">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>180</y>
+     <width>80</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>LH Lyse</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbDiluent">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>130</y>
+     <width>80</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Diluent</string>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

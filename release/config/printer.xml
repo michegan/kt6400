@@ -1,0 +1,6 @@
+<root>
+  <items id = "PRINTER">
+    <item id = "DEVICE" value = ""/>
+    <item id = "CONCENTRATION" value = "19"/>    
+  </items>
+</root>

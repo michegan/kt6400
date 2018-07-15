@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <!-- 运行时间 -->
+  <items id = "RUN_TIMES">
+    <!-- 历史累计运行时间（单位：秒） -->
+    <item id = "TOTAL_RUNTIME" value = "0"/>
+    <!-- 本次开机后运行时间（单位：秒） -->
+    <item id = "STARUP_RUNTIME" value = "0"/>
+  </items>
+
+  <!-- 维护后计数次数 -->
+  <items id = "MAINTAIN_COUNT_TIMES">
+    <!-- 自动清洗 -->
+    <item id = "AUTO_CLEAN" value = "0"/>
+    <!-- 自动探头液浸泡 -->
+    <item id = "AUTO_PROBE_CLEAN" value = "0"/>
+  </items>
+</root>

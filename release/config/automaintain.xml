@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <items id = "AUTO_MAINTAIN">
+  	<!-- 定时清洗，单位：分 -->
+    <item id = "AUTO_CLEAN" value = "60"/>
+    <!-- 定时休眠，单位：分 -->
+    <item id = "AUTO_SLEEP" value = "30"/>
+    <!-- 定时探头液浸泡，单位：分 -->
+    <item id = "AUTO_PROBE_CLEAN" value = "1440"/>
+  </items>
+</root>

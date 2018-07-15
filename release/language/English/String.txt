@@ -1,0 +1,62 @@
+IDS_NULL : 
+IDS_OK : OK
+IDS_CANCEL : Cancel
+IDS_YES : Yes
+IDS_NO : No
+IDS_NAME : Name
+IDS_PASSWORD : Password
+IDS_LOGIN : Login
+IDS_INPUT_USER_NAME : Please input user name
+IDS_INVALID_USER_NAME : Invalid user name
+IDS_INVALID_PASSWORD : Invalid password
+IDS_LIQUID_INIT : Liquid init
+IDS_LIQUID_CLEANUP : Liquid cleanup
+IDS_BACKGROUND_TEST : Bacground test
+IDS_SYSTEM_BUSY : System busy, wait for a moment.
+IDS_FAULT_LIMITED : Fault limited, please resolve the fault first.
+IDS_RUN_FAIL : Start fail, because of anything else.
+IDS_LOGOFF : Log Off?
+IDS_MENU : Menu
+IDS_PRINT : Print
+IDS_MODE : Mode
+IDS_UNCLOG : Unclog
+IDS_ADD_DILUENT : Add diluent
+IDS_SAMPLE_ID : Sample ID
+IDS_PATIENT_ID : Patient ID
+IDS_GENDER : Gender
+IDS_MALE : Male
+IDS_FEMALE : Female
+IDS_SENDER : Sender
+IDS_SEND_TIME : Send time
+IDS_TEST_TIME : Test time
+IDS_AGE : Age
+IDS_DEPARTMENT : Department
+IDS_COMMENT : Comment
+IDS_SPECIES : Species
+IDS_NEXT_SAMPLE : Next Sample
+IDS_COUNT : Count
+IDS_REVIEW : Review
+IDS_QC : Qc
+IDS_CALIBRATE : Calibrate
+IDS_MAINTAIN : Maintain
+IDS_REAGENT : Reagent
+IDS_SELFTEST : Selftest
+IDS_SETUP : Setup
+IDS_SHUTDOWN : Shutdown
+IDS_SHUTDOWN_MACHINE : Shutdown the machine?
+IDS_WHOLE_BLOOD : Whole Blood
+IDS_PERIPHERAL : Peripheral
+IDS_PREDILUENT : Prediluent
+IDS_RELIEVE : Relieve
+IDS_DELETE : Delete
+IDS_SEARCH : Search
+IDS_PAGE_DOWN : Page down
+IDS_PAGE_UP : Page up
+IDS_TRANSMIT : Transmit
+IDS_POS : Pos
+IDS_SELECTED : Selected
+IDS_CURRENT : 
+IDS_CURRENT : 
+IDS_CURRENT : 
+IDS_CURRENT : 
+IDS_CURRENT : 

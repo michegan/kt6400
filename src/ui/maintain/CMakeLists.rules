@@ -1,0 +1,42 @@
+set(modulename maintain)
+
+set(${modulename}_moc_files 
+    ${modulename}/loginwin.h
+    ${modulename}/pulsewin.h
+    ${modulename}/helpdialog.h
+    ${modulename}/startupwin.h
+    ${modulename}/faultdialog.h
+    ${modulename}/maintainwin.h
+    ${modulename}/maintaindialog.h
+    ${modulename}/shutdowndialog.h
+    ${modulename}/faulttablewidget.h
+)
+
+set(${modulename}_uic_files 
+    ${modulename}/loginwin.ui
+    ${modulename}/pulsewin.ui
+    ${modulename}/helpdialog.ui
+    ${modulename}/startupwin.ui
+    ${modulename}/faultdialog.ui
+    ${modulename}/maintainwin.ui
+    ${modulename}/shutdowndialog.ui
+)
+
+set(${modulename}_source_files 
+    ${modulename}/loginwin.cpp
+    ${modulename}/pulsewin.cpp
+    ${modulename}/helpdialog.cpp
+    ${modulename}/startupwin.cpp
+    ${modulename}/faultdialog.cpp
+    ${modulename}/maintainwin.cpp
+    ${modulename}/maintaindialog.cpp
+    ${modulename}/shutdowndialog.cpp
+    ${modulename}/faulttablewidget.cpp
+)
+
+set(include_dir  ${include_dir}  ${CMAKE_CURRENT_SOURCE_DIR}/${modulename})
+set(moc_files    ${moc_files}    ${${modulename}_moc_files})
+set(uic_files    ${uic_files}    ${${modulename}_uic_files})
+set(source_files ${source_files} ${${modulename}_source_files})
+
+source_group(${modulename} FILES ${${modulename}_moc_files} ${${modulename}_uic_files} ${${modulename}_source_files})

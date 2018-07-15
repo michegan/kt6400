@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <items id = "LANGUAGE">
+    <!-- 当前单位 -->
+    <item id = "CUR_UNIT" value = "CHINA"/>
+    <!-- 日期格式 -->
+    <item id = "DATE_FORMAT" value = "yyyy-MM-dd"/>
+  </items>
+</root>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <items id = "IDS_HUMAN">
+    <!-- 通用 -->
+    <items id = "IDS_COMMON">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+
+    <!-- 成男 -->
+    <items id = "IDS_ADULT_MALE">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+
+    <!-- 成女 -->
+    <items id = "IDS_ADULT_FEMALE">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+
+    <!-- 儿童 -->
+    <items id = "IDS_CHILD">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+
+    <!-- 新生儿 -->
+    <items id = "IDS_INFANT">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+    
+    <!-- 自定义1 -->
+    <items id = "IDS_USER_1">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+
+    <!-- 自定义2 -->
+    <items id = "IDS_USER_2">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+    
+    <!-- 自定义3 -->
+    <items id = "IDS_USER_3">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+  </items>
+
+  <!-- 狗 -->
+  <items id = "IDS_DOG">
+    <items id = "IDS_COMMON">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+    
+    <!-- 自定义1 -->
+    <items id = "IDS_USER_1">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+  </items>
+
+  <!-- 猫 -->
+  <items id = "IDS_CAT">
+    <items id = "IDS_COMMON">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+    
+    <!-- 自定义1 -->
+    <items id = "IDS_USER_1">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+  </items>
+
+  <!-- 老鼠 -->
+  <items id = "IDS_MOUSE">
+    <items id = "IDS_COMMON">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+    
+    <!-- 自定义1 -->
+    <items id = "IDS_USER_1">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+  </items>
+
+  <!-- 兔子 -->
+  <items id = "IDS_RABBIT">
+    <items id = "IDS_COMMON">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+    
+    <!-- 自定义1 -->
+    <items id = "IDS_USER_1">
+      <item id = "WBC" low = "4.0" high = "10.0"/>
+      <item id = "LYM%" low = "20.0" high = "40.0"/>
+      <item id = "MID%" low = "3.0" high = "9.0"/>
+      <item id = "GRAN%" low = "50.0" high = "70.0"/>
+      <item id = "LYM#" low = "0.8" high = "4.0"/>
+      <item id = "MID#" low = "0.1" high = "0.9"/>
+      <item id = "GRAN#" low = "2.0" high = "7.0"/>
+
+      <item id = "RBC" low = "3.5" high = "5.5"/>
+      <item id = "HGB" low = "110.0" high = "160.0"/>
+      <item id = "HCT" low = "37.0" high = "50.0"/>
+      <item id = "MCV" low = "82.0" high = "95.0"/>
+      <item id = "MCH" low = "27.0" high = "31.0"/>
+      <item id = "MCHC" low = "320.0" high = "360.0"/>
+      <item id = "RDW-CV" low = "11.5" high = "14.5"/>
+      <item id = "RDW-SD" low = "35.0" high = "56.0"/>
+
+      <item id = "PLT" low = "100.0" high = "300.0"/>
+      <item id = "MPV" low = "7.0" high = "11.0"/>
+      <item id = "PCT" low = "0.108" high = "0.282"/>
+      <item id = "PDW" low = "15.0" high = "17.0"/>
+      <item id = "PLCR" low = "11.0" high = "45.0"/>
+      <item id = "PLCC" low = "30.0" high = "90.0"/>
+    </items>
+  </items>
+</root>

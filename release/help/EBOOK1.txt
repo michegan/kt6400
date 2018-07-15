@@ -1,0 +1,318 @@
+CAP赤TULO 1  INTRODUCCI車N 
+1.1 Nombre 
+El nombre del instrumento es Analizador de hematolog赤a automatizado FC-620Vet.
+1.2 Estructura
+Host y accesorios.  
+Host  
+Sistema de control encargado de controlar el proceso de recolecci車n de muestra, diluci車n y an芍lisis incluye las siguientes unidades:  
+1.	Fuente de alimentaci車n.  
+2.	Circuito de control central.  
+3.	Unidad diluci車n. 
+4.	Unidad de visualizaci車n.  
+5.	Impresora t谷rmica.  
+Accesorios
+Incluye los siguientes accesorios:
+a)	Teclado PS/2.
+b)	Rat車n, ※MOUSE§  
+c)	Cable de alimentaci車n.  
+d)	Cable de conexi車n a tierra
+e)	Tuber赤as para los reactivos y desechos
+f)	Fusible
+g)	Rollo de papel t谷rmico
+
+1.3 Prop車sito
+Es utilizado para detectar los par芍metros de RBC, WBC, HGB y recuento diferencial. 
+El analizador se utiliza para la determinaci車n de 20 par芍metros y 3 histogramas de sangre, son los siguientes:
+ 
+Nombre completo	Abreviatura	Unidades       ( por defecto)
+Conteo de  Gl車bulos Blancos	WBC	103/米L
+Conteo de Linfocitos	LYM#	103/米L
+Conteo de C谷lulas medias	MID#	103/米L
+Conteo de Neutr車filos	NEUT#	103/米L
+Porcentaje de Linfocitos	LYM%	%
+Porcentaje de C谷lulas medias	MID%	%
+Porcentaje de Neutr車filos	NEUT%	%
+Conteo de Gl車bulos rojos	RBC	106/米L
+Hemoglobina	HGB	g/dL
+Hematocrito	HCT	%
+Volumen corpuscular medio	MCV	fL
+Hemoglobina corpuscular medio	MCH	pg
+Concentraci車n medio de hemoglobina corpuscular	MCHC	g/dL
+Ancho de distribuci車n de gl車bulos rojos (Desviaci車n est芍ndar)	RDW-SD	fl
+Ancho de distribuci車n de Gl車bulos Rojos ( Coeficiente de variaci車n) 	RDW-CV	%
+Conteo de Plaquetas	PLT	103/米L
+Volumen medio Plaquetario	MPV	fl
+Ancho de distribuci車n de Plaquetas	PDW	%
+Plaquetocrito	PCT	%
+Cociente de largo de las Plaquetas	P-LCR	%
+Histograma de Gl車bulos blancos	WBC Histograma	
+Histograma de Gl車bulos rojos	RBC Histograma	
+Histograma de Plaquetas	PLT Histograma	
+1.4 Especificaciones
+ 	Clasificaci車n Del Instrumento
+De acuerdo a peligro de choque el谷ctrico: Grado II, contaminaci車n 2 
+De  acuerdo  a  la  protecci車n  de  l赤quido  nocivo:  General  del  Dispositivo (dispositivo cerrado para  protecci車n de l赤quido) 
+De  acuerdo a m谷todos de   desinfecci車n  /  esterilizaci車n  recomendados por el fabricante: 
+Soluci車n desinfectante recomendada por el fabricante. 
+Seg迆n  el  grado  de  seguridad  y  condiciones  de  uso  del  dispositivo,  no  utilizar  el dispositivo  en  condiciones en  las cuales est谷  presente  en  el  ambiente  alguna mezcla de gas inflamable como gas anest谷sico y aire o una mezcla de ox赤geno y 車xido nitroso. 
+De acuerdo al estado de trabajo: Dispositivo de trabajo continuo.
+ 	Principios de Medici車n
+La medici車n y el conteo de las c谷lulas sangu赤neas se realizan por m谷todo de impedancia el谷ctrica. La hemoglobina se determina por el M谷todo de colorimetr赤a.
+ 
+
+ 	Par芍metros Medidos  
+Nombre completo	Abreviatura	Unidades
+Gl車bulos Blancos	WBC	103/米L
+Gl車bulos rojos	RBC	103/米L
+Hemoglobina	HGB	g/dL
+Plaquetas	PLT	103/米L
+ 	Resultados de Histograma  
+Nombre completo	Abreviatura	Unidades
+Porcentaje de Linfocitos	LYM%	%
+Porcentaje de C谷lulas medias	MID%	%
+Porcentaje de Neutr車filos	NEUT%	%
+Volumen corpuscular medio	MCV	fl
+Ancho de distribuci車n de gl車bulos rojos (Desviaci車n est芍ndar)	RDW-SD	fl
+Ancho de distribuci車n de Gl車bulos Rojos ( Coeficiente de variaci車n)	RDW-CV	%
+Volumen medio Plaquetario	MPV	fl
+Ancho de distribuci車n de Plaquetas	PDW	%
+Cociente de largo de las Plaquetas	P-LCR	%
+ 	Par芍metros Calculados
+               Nombre completo	Abreviatura	Unidades
+Linfocitos	LYM#	103/米L
+C谷lulas medias	MID#	103/米L
+Neutr車filos	NUT#	103/米L
+Hematocrito	HCT	%
+Hemoglobina corpuscular medio	MCH	pg
+Concentraci車n medio de hemoglobina corpuscular	MCHC	g/dL
+Plaquetocrito	PCT	%
+ 	Caracter赤sticas de Muestreo:  
+Volumen de Muestra:   Modo de Sangre Venosa: 10 米L 
+                                          Modo de Sangre Capilar: 10 米L 
+                                          Modo Prediluido: 20 米L 
+Volumen de reactivo necesario para cada muestra:  
+                                          Diluente: 26ML 
+                                          Lisante: 0.35ML
+ 
+Modo de sangre capilar o venosa:  
+                                                             WBC/HGB 1:285 
+                                                             RBC/PLT 1:21667 
+                                                             WBC/HGB 1:500 
+                                                             RBC/PLT 1:43333 
+Tama o de la apertura:      
+                                                             WBC: 100um  
+                                                             RBC/PLT: 70 um 
+Rendimiento: Hasta 60 muestras por hora 
+Modo de Trabajo: Doble conteo + sistema de detecci車n de HGB 
+Pantalla: Pantalla a cristal l赤quido (LCD) de 8§,  Resoluci車n pantalla t芍ctil: 800*600 
+Idioma: Espa ol, ingles  
+Indicador  
+20 Par芍metros y 3 Histogramas en pantalla  
+Indicador de Alarma  
+Estado de trabajo (incluyendo alimentaci車n) Indicador luminoso  
+Alarma
+Interfaz  
+ 	Conector de Entrada  alimentaci車n  
+ 	Un Puerto serial RS232/C   
+ 	Una interfaz VGA  
+ 	Dos interfaz USB  
+ 	Una Interfaz PS/2 
+Impresora T谷rmica 
+     Ancho de Grabaci車n: 35mm 
+     Ancho de papel: 80 mm 
+ 
+Especificaciones de precisi車n del instrumento
+Par芍metros	Repetitividad
+WBC	≒ 5 x 109/L
+RBC	≒ 5 x 1012/L
+HGB	≒ 4g/L 
+HCT	≒ 5% 
+PLT	≒ 8 x 109/L
+Rango lineal
+Par芍metro	Rango de medici車n 	Medici車n de tolerancia Lineal
+WBC	0‵5.9℅109/L
+6.0‵99.9℅109/L	ㄗ㊣0.3℅109ㄘ/L
+㊣5��
+RBC	0‵0.99℅1012/L
+1.0‵9.99℅1012/L	ㄗ㊣0.05℅1012ㄘ/L
+㊣5��
+HGB	0‵99g/L
+100‵300g/L	㊣2.0 g/L
+㊣2��
+PLT	0‵99℅109/L
+100‵999℅109/L	ㄗ㊣8.0℅109ㄘ/L
+㊣10��
+
+ 
+Muestra en Pantalla y rangos de los par芍metros de salida en el informe  
+Par芍metro	Par芍metro Rango	Par芍metro	Par芍metro Rango
+WBC	0.0-99.9 x 103/米L	NEUT#	0.0-99.9 x 103/米L
+RBC	0.0-99.9 x 106/米L	HCT	0.0-100.0%
+HGB	0.0-30g/dL	MCH	0.0-999.9pg
+PLT	0-3000 x 103/米L	MCHC	0.0-99.9g/dL
+MCV	0-250fL	RDW-SD	0.0-99.9fL
+LYM%	0-100%	RDW-CV	0.0-99.9%
+MID%	0-100%	PDW	0.0-30.0%
+NEUT%	0-100%	MPV	0.0-30.0fL
+LYM#	0.0-99.9 x 103/米L	PCT	0.0-9.99%
+MID#	0.0-99.9 x 103/米L	P-LCR	0.0-99.9%
+Ambiente de Operaci車n  
+Temperatura: 18⊥~34⊥
+Humedad: 10%RH ~90%RH 
+Presi車n Atmosf谷rica: 50.0kPa ~106.0kPa  
+Ambiente de Almacenamiento  
+Temperatura:-10 ⊥~40⊥
+Humedad: 10%RH ~90%RH 
+Presi車n Atmosf谷rica: 70.0kPa ~106.0kPa  
+Especificaciones El谷ctricas  
+Fuente de Alimentaci車n: 100‵240 Vacㄛ50/60Hz 
+Fusible: F3AL250V  
+Dimensiones y Peso  
+Dimensiones: 410mm℅435mm℅472mm  
+Peso: 25Kg
+
+
+1.5 Estructura
+Vista frontal
+
+
+
+
+
+
+Pantalla T芍ctil: Despliega el software del instrumento y el teclado virtual.
+Aguja de Aspiraci車n: Es utilizada para aspirar la muestra a las c芍maras de  lectura
+Tecla de inicio o Bot車n de Aspiraci車n: Cuando se va a procesar una muestra, se presiona y el instrumento aspira la muestra.
+Cubierta impresora t谷rmica: Cubierta para la impresora y el papel, presione para abrir.
+Luz indicadora: Esta en color verde cuando el instrumento esta encendido.
+Vista Posterior
+
+
+
+
+
+
+
+
+Interruptor: Enciende/Apaga el instrumento.                Conector del  cable de Alimentaci車n: Es utilizado para la conexi車n del cable de alimentaci車n.                            Conector Polo a Tierra: Es utilizado para anclar a tierra el instrumento.                                Conector reactivo Lisante: Para conectar el tubo del reactivo lisante.           Conector reactivo Diluente: Para conectar el tubo del Diluente.                 Conector de residuos: Para conectar el tubo de residuos o desechos                 Interfaz VGA: Es utilizada para la conexi車n a una pantalla externa.   Interfaz RS-232.               Interfaces USB: Son usadas para conectar el teclado externo, mouse, etc.
+1.6 Operaci車n
+Dise ado de acuerdo a la ingenier赤a humana, la transferencia de informaci車n a los usuarios del software se realiza a trav谷s de la pantalla y el rat車n, ambos son importantes para su funcionamiento.
+Pantalla de visualizaci車n
+La pantalla de visualizaci車n se clasifica en cinco secciones:
+SECCION NOMBRE DE
+SISTEMA / HORA	TECLAS DE ACCESO 
+RAPIDO
+SECCION DE INFORMACION AUXILIAR
+SECCION: PANTALLA DE VISUALILZACION
+Secci車n: Nombre de sistema / Hora 
+Muestra el Nombre del sistema y la hora 
+Secci車n: Teclas de Acceso R芍pido 
+Para visualizar accesos r芍pidos del sistema 
+Secci車n: Pantalla de visualizaci車n 
+Muestra los resultados de muestreo 
+Secci車n de informaci車n Auxiliar 
+Muestra los mensajes de error del sistema
+Men迆
+Usted  puede  ejecutar  las funciones del  instrumento  por  este  acceso.  En  la ventana  principal  del  analizador,  pulse  el  bot車n  "Men迆",  y  se  visualizara  el men迆 principal.
+ 
+Men迆 Principal
+
+Las funciones del men迆 son las siguientes:
+Medici車n:  En  esta  secci車n  Ingresa  a  la  ventana  Principal  del  analizador para iniciar el muestreo.
+Calibraci車n: Ingrese  a  esta  secci車n  para  realizar  la  calibraci車n  del instrumento. 
+1.	Calibraci車n  manual: Ingrese  en  esta  secci車n  para  realizar  la  calibraci車n manual del instrumento. 
+2.	Calibraci車n  autom芍tica: Ingrese  en  esta  secci車n  para  realizar  la calibraci車n autom芍tica del instrumento autom芍tica. 
+Control  Calidad: En esta secci車n puede llevar a cabo la operaci車n de control de calidad del instrumento.
+1.	CC Editar: Ingrese a la ventana de edici車n de CC para editar los par芍metros de los controles de calidad.
+2.	CC Correr: Ingrese a la ventana de ejecuci車n para correr el control de calidad  en el archivo de control de calidad seleccionado.
+3.	CC Grafico: Ingrese a la ventana de gr芍ficos de control de calidad para examinar los gr芍ficos de control de calidad del archivo seleccionado.
+4.	CC Lista: Ingrese a esta funci車n  para revisar el cuadro de control de calidad del archivo de CC seleccionado.
+Ajustes: En esta secci車n podr芍 ingresar en el men迆 configuraci車n.
+1.	Idioma: Ventana de configuraci車n de idioma del analizador. 
+2.	Hora: Ventana de configuraci車n de fecha y hora del analizador. 
+3.	Imprimir: Ventana  de  configuraci車n  de  impresi車n,  para  establecer  las funciones de impresi車n. 
+4.	Control: Ventana  de  configuraci車n  para  ajustar  funciones tales  como  la impresi車n, el reposo, limpieza,  la pantalla, etc
+5.	L赤mites: Permite modificar los valores de  los l赤mites pre-establecidos. 
+6.	Info.  Departamento: Ingrese a esta ventana  y usted puede establecer el departamento y la abreviatura. 
+7.	Info.  Medico: Ingrese  a  esta  ventana  para  seleccionar  el  doctor, abreviatura y  el operador. 
+8.	Color Pantalla: Ingrese  a  esta  ventana  para  seleccionar  el  color en pantalla. 
+9.	Calibrar Pantalla: Ingrese  a  esta  ventana  para  calibrar la pantalla de tacto.
+Servicio: Ingrese al men迆 de servicio.
+1.	Enjuague: Para eliminar alguna obstrucci車n de la apertura. 
+2.	Enjuague mejorado: Para eliminar una obstrucci車n de la apertura dif赤cil de remover. 
+3.	Limpieza: Ejecuta el proceso de lavado normal, para enjuagar la unidad de medida. 
+4.	Purgar C芍mara: Purgar la soluci車n en la c芍mara de medici車n. 
+5.	C芍maras: Vac赤a los fluidos de las c芍maras de medici車n. 
+6.	Fuera de servicio (Park): Ejecutar el Programa Park para enjuagar y vaciar la tuber赤a. 
+7.	Purgar Diluente: Purga el Diluente en las v赤as fluidicas correspondientes. 
+8.	Purgar Lisante: Purga el lisante en las v赤as fluiditas correspondientes.
+9.	Purgar: Pulgar la soluciones.
+10.	Mantenimiento: Ejecutar  el  programa  de  mantenimiento  del  analizador para mantener el instrumento en condiciones ideales de funcionamiento. 
+11.	Mec芍nica:  Ingrese  a  esta  funci車n  y  usted  puede  verificar  el  estado  de algunos sistemas y funciones del instrumento. 
+12.	Especial: Ingrese a la ventana especial para verificar  el instrumento.
+Revisar: Ingrese al men迆 de revisar.
+1.	Ayuda: Ingrese a la ventana de ayuda del sistema. 
+2.	Versi車n: Muestra la informaci車n del instrumento como el software y los derechos de autor etc. 
+3.	Apagado: Inicia de forma autom芍tica el apagado y ejecuta el enjuague de las unidades de medici車n.
+1.7 Principio de detecci車n
+1.7.1 Principio de detecci車n de WBC, RBC, PLT  
+El principio de recuento del instrumento se basa en la medici車n de los cambios en la resistencia el谷ctrica producidos por una part赤cula que pasa a trav谷s de una apertura de un sensor. 
+La  muestra  de  sangre  se  diluye  en  un  l赤quido  conductor.  Como  las c谷lulas de  la  sangre  son  no  conductoras,  el  Diluente  es un  buen conductor. Hay grandes diferencias entre ellos. 
+a)	Cuando  el  Diluente  pasa  a  trav谷s de  la  apertura  del  sensor,  los 
+b)	electrodos est芍n  sumergidos en  el  l赤quido  a  cada  lado  de  la  abertura para crear corriente continua. 
+c)	Cuando las c谷lulas pasan a trav谷s de la apertura, la resistencia entre los electrodos aumenta a medida que el volumen de c谷lulas aumenta, como se muestra en la figura 1-4. De acuerdo con la  ley de Ohm: U = RI (U = tensi車n   I = Corriente R =Resistencia) Si I es una constante, U aumenta a medida que el volumen de c谷lulas va aumentando. 
+d)	Al  pasar  por  el  circuito  de  amplificaci車n,  la  se al  de  voltaje  se  ver芍 ampliada  y  el  ruido  se  filtrar芍,  entonces se  obtendr芍n  los  resultados anal赤ticos, como se muestra en la figura 1-4. 
+e)	Una c芍mara de conteo y el circuito de detecci車n para contar WBC. Otra c芍mara de recuento y el circuito de detecci車n para contar RBC y PLT. El microprocesador del  instrumento  calcula  y  analiza  las c谷lulas (WBC, RBC, PLT), y luego arroja los histogramas. 
+f)	Para  el  recuento  de  PLT  usa  l赤quidos especiales,  la  electr車nica  y el software del sistema. Se inicia el recuento repetitivo de las c谷lulas en la zona de recuento de la apertura.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.7.2 Principios de  Medici車n de HGB    
+Se  adiciona  lisante  en  la  sangre,  los  gl車bulos rojos r芍pidamente  se descomponen y liberan hemoglobina. 
+La hemoglobina y el lisante forman una nueva mezcla, que puede absorber una longitud de onda de 540 nm. Medir la absorbencia, a trav谷s de la comparaci車n de la absorbancia entre el Diluente puro y la concentraci車n de la muestra, as赤 se calcula la hemoglobina de la muestra.
+Volumen de distribuci車n de las c谷lulas en la sangre
+Cuando los diferentes tipos de c谷lulas pasan a trav谷s del sensor de apertura, ser芍 diferente la altura  del pulso el谷ctrico. Debido a la evidente diferencia de los tama os de las c谷lulas, el instrumento es capaz de diferenciar los gl車bulos blancos, gl車bulos rojos y plaquetas por su programa preestablecido. 
+Las distribuciones de volumen son las siguientes: 
+             WBC        20 每 1000fL 
+              RBC          82 每 98fL 
+              PLT           2 每 35fL
+Los leucocitos listos por lisar se pueden dividir en tres tipos, de acuerdo con sus vol迆menes: Linfocitos (LYM), de mediano tama o celular (MID), Neutr車filos (NEUT). 
+             LYM                   35 - 90 fL 
+             MID                    90 每 160 fL
+             NEUT                160 每 450 fL
+1.7.4 C芍lculo y resultados de par芍metros medidos.
+Los par芍metros de la muestra de sangre analizada se pueden definir de tres maneras: 
+a)	Par芍metros medidos directamente,  tales como  WBC, RBC, PLT,  y  HGB.  
+b)	Derivados de histogramas, tales como  LYM%, MID%, NEUT%, MCV, RDW- SD, RDW-CV, MPV, PDW, P-LCR.  
+c)	Calculados, tales como  LYM#, MID#, GRAN#, HCT, MCH, MCHC, PCT.
+La formulaci車n deriva de la siguiente manera:  
+ 	MCV deriva de histogramas y de la recolecci車n y clasificaci車n  de los eritrocitos en funci車n de su volumen. Se determina midiendo el volumen promedio de los eritrocitos individuales, y la unidad es fL. 
+ 	RDW representa la distribuci車n del volumen de las poblaciones de eritrocitos, derivados del histograma RBC. Se puede expresar por la variaci車n del coeficiente de volumen de eritrocitos como el RDW-CV, y la unidad es%. 
+Tambi谷n se puede expresar en la desviaci車n est芍ndar del volumen de eritrocitos como RDW-SD, la unidad es fL. 
+MPV es el volumen medio de las plaquetas individuales, derivados del histograma PLT. Representa el volumen medio de las poblaciones de PLT y se puede expresar en fL. 
+PDW deriva del histograma PLT. Representa la desviaci車n est芍ndar geom谷trica (10 GSD) del volumen de la poblaci車n de PLT. 
+P-LCR se deriva del histograma PLT. Representa la proporci車n de la mayor PLT y la unidad es%. 
+      HCT (%)= RBC*MCV/10  
+      MCH (pg)= 10 ℅ HGB/RBC  
+      MCHC (g/L)= 100 ℅HGB/HCT  
+      PCT (%) = PLT ℅MPV/10  
+      LYM%=100℅AL/(AL+AM+AG)  
+      MID%=100℅AM/(AL+AM+AG)  
+      NEUT%=100℅AG/(AL+AM+AG)  
+      LYM#=LYM%℅WBC/100  
+      MID=MID%℅WBC/100  
+      NEUT#=NEUT%℅WBC/100 
+AL: N迆mero de c谷lulas en el 芍rea LYM; 
+AM: N迆mero de c谷lulas entre el 芍rea de linfocitos y neutr車filos; 
+AG: N迆mero de c谷lulas en el 芍rea de NEUT.

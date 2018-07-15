@@ -1,0 +1,52 @@
+CAP赤TULO 8      SERVICIO
+Este  cap赤tulo  ofrece  la  descripci車n  de  las  distintas  funciones de  servicio proporcionadas por  el  instrumento.  Estas funciones ayudaran  al  operador  a llevar un buen funcionamiento del instrumento. 
+En  la  ventana  principal  del  analizador, seleccione la funci車n ※Servicio§.
+ 
+Figura 8-1
+8.1 Enjuague 
+Esta funci車n se utiliza para la soluci車n de obstrucciones generales de la sonda. 
+El instrumento hace que una presi車n fija y una tensi車n pasen por la sonda para deshacer una posible obstrucci車n. 
+8.2 Enjuague Mejorado 
+Esta funci車n es 迆til para resolver obstrucciones dif赤ciles de remover. 
+El  Limpiador  de  sonda  pasa  por  la  c芍mara  de  conteo.  De  esta  manera  se retirar芍  la  obstrucci車n  del  sistema  fluidic車.  Antes de  realizar  esta  funci車n,  el usuario debe tener preparado el limpiador de sonda.
+8.3 Limpieza 
+Esta funci車n se utiliza para realizar la limpieza de rutina de la sonda, la aguja de muestra,  la c芍mara de medici車n, y  la tuber赤a. 
+8.4 Llenar C芍maras 
+Esta funci車n se utiliza para que el usuario l ene las c芍maras con diluente. 
+8.5 Drenar C芍mara 
+
+Esta funci車n se utiliza para que el usuario observe la c芍mara de medici車n. El instrumento vaciara el l赤quido de la c芍mara. 
+8.6 Fuera de servicio (Park) 
+El  Fabricante  sugiere  no  utilizar  esta  funci車n.  Si  el  instrumento  no  va  a  ser utilizado  en  2  semanas o  m芍s,  utilice  esta  funci車n  para  limpiar  y  vaciar  el instrumento. Es conveniente para el usuario si va a almacenar el instrumento. 
+Preparar agua destilada antes de ejecutar esta funci車n. 
+8.7 Cargar Diluente 
+Se purga el diluente en la tuber赤a correspondiente. 
+8.8 Cargar Lisante 
+Se purga el lisante en la tuber赤a correspondiente. 
+8.9 Cargar 
+Purga diluente y lisante en sus respectivas tuber赤as
+8.10 Mantenimiento 
+El  usuario  puede  realizar    el  mantenimiento  semanal  de  acuerdo  con  la informaci車n obtenida del funcionamiento. 
+Preparar rinse y limpiador de sonda antes de ejecutar esta funci車n.
+8.11 Mec芍nica 
+El usuario puede realizar la prueba de las v芍lvulas, motores, y la interfaz del circuito. 
+Es de gran ayuda para tratar de resolver alguna aver赤a.
+ 
+Figura 8-2
+ 	V芍lvula: 
+"ON" Indica que la v芍lvula esta activada. 
+"OFF" Indica que la v芍lvula est芍 apagada. 
+ 	Motor: 
+"OK" Indica que el motor se encuentra en estado normal. 
+"FAIL" Indica que el motor tiene falla. 
+Impresora t谷rmica ※grabadora§: 
+Haga clic en este bot車n, la grabadora imprimir芍 un documento de prueba 
+ 	Impresora externa: 
+Haga  clic en  este  bot車n,  la  impresora  externa  imprimir芍  un  documento  de prueba 
+ 	Regresar: 
+Volver芍 al men迆 de servicio y el instrumento se  inicializar芍 autom芍ticamente.
+ 
+Figura 8-3
+8.12 Especial 
+En esta funci車n de  mantenimiento especial, el usuario puede ajustar los datos de control de funcionamiento. 
+Esta funci車n debe ejecutarse con autorizaci車n del departamento de ingenier赤a de FUETE CARES  o su distribuidor autorizado.

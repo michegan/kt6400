@@ -1,0 +1,77 @@
+CAP赤TULO 2  INSTALACI車N      
+2.1 Embalaje 
+Si  encuentra  el  embalaje    da ado  despu谷s de  recibir  el  instrumento,  o  el instrumento  est芍  da ado,  p車ngase  en  contacto  con  el  agente  de  carga 
+inmediatamente  para  presentar  una  reclamaci車n  de  acuerdo  con  el  nivel  de da o.  Al  mismo  tiempo,  p車ngase  en  contacto  con  su  proveedor  para asegurarse  de  que  el  env赤o  est谷  completo.  Entonces  desembale  y  realice  la instalaci車n del instrumento como se indica a continuaci車n. 
+2.2 Desempaque  
+Saque  el  instrumento y accesorios de la caja de cart車n para el transporte.
+Quite la bolsa de pl芍stico del instrumento.
+Verifique los accesorios en comparaci車n con la lista de empaque.
+Por favor conserve la caja original para su futura transportaci車n a los servicios de mantenimiento, reparaciones o su almacenamiento. 
+Si hay alg迆n problema, por favor recupere el embalaje y p車ngase en contacto con su proveedor inmediatamente.
+ 2.3 Requisitos de instalaci車n 
+ 2.3.1 Entorno de Instalaci車n 
+El  instrumento  debe  ser  colocado  sobre  una  plataforma  estable  en  una habitaci車n  limpia y libre del polvo. Evite  la  luz  solar  directa. Mantener  la  temperatura ambiente a 18 ～ C ~ 30 ～ C, la humedad no superior al 70%, la presi車n atmosf谷rica a 0 ~ 106.0Kpa.
+En el entorno de trabajo del dispositivo se deben evitar los dispositivos como centrifugadoras, rayos x, tel谷fonos celulares, tel谷fonos m車viles, etc. Cambios de temperaturas, de humedad relativa, los campos electromagn谷ticos fuertes, etc, interfieren en los resultados de las muestras.
+Nota importante: El instrumento necesita una conexi車n a tierra bien instalada solo para 谷l. Su tensi車n de puesta a tierra no debe ser m芍s de 0.5V. Si una toma a tierra es necesaria para conectar con el polo a tierra en el panel trasero, aseg迆rese de garantizar la fiabilidad de la conexi車n a tierra en el lugar de trabajo. Fluctuaciones el谷ctricas o falta de polo a tierra influir芍n negativamente en el resultado de las muestras.
+Importante: Se recomienda instalar una UPS (Sistema de Alimentaci車n Ininterrumpida) con ello se evitara las fluctuaciones el谷ctricas y como consecuencia mejora el rendimiento y la fiabilidad en los resultados de las muestras.
+Precauci車n: 
+ 	Evite el contacto directo con la luz solar.
+ 	Evite el contacto con el polvo.
+ 	Mantenga el instrumento alejado de la radiaci車n electromagn谷tica. 
+ 	Mantenga alejado el instrumento de centrifugas, m芍quinas de rayos x, etc.
+ 	Asegure que el instrumento se encuentre en una mesa fuerte y con superficie lisa.
+Nota Importante: Temperatura ambiente para el trabajo de este instrumento debe ser adecuada de 18 ~ 30 ～ C  y la humedad relativa 10% ~90%.
+2.3.2 Espacio necesario 
+Deje el espacio necesario como m赤nimo 20Cm de cada lado del instrumento en el lugar de trabajo para asegurar un acceso a la compuerta principal del instrumento. 
+AVISO: 
+Los reactivos deben ser colocados a la misma altura de trabajo del instrumento, al menos como m赤nimo el reactivo Lisante y el reactivo Diluente no debe estar superior a un metro por debajo.
+2.3.3 Requisitos de alimentaci車n 
+El requisito de potencia  es el siguiente: 
+  AC 120 (1 ㊣ 10%) V, 60 Hz 
+  El consumo de potencia m芍xima es de 200 VA
+Advertencia: El instrumento necesita  una conexi車n a tierra bien instalada solo para 谷l. Su tensi車n de puesta a tierra no debe ser m芍s de 0.5V
+Advertencia: Si es necesario conectar una toma a tierra con el polo a tierra en el panel trasero. Aseg迆rese de garantizar la fiabilidad de la conexi車n a tierra en el lugar de trabajo.
+Precauci車n: Fluctuaciones el谷ctricas disminuir芍n  el rendimiento y la  fiabilidad  del instrumento. Se deben tomar acciones apropiadas antes de su uso, tales como la instalaci車n de UPS (Sistema de Alimentaci車n Ininterrumpida).
+2.4 Tuber赤a para conexi車n  de reactivos
+Hay tres conectores de tubo de color blanco, verde y rojo en el panel posterior del instrumento. 
+Para  evitar  la  contaminaci車n  del  tubo,  el  fabricante  sella  cada  uno  de  los conectores por encima con una tapa antes de la entrega. 
+Por  favor,  tire  de  las  tapas de  los  conectores cuidadosamente  antes de  la instalaci車n por primera vez y cons谷rvelas.
+2.4.1 Conector del reactivo lisante
+Saque el tubo del lisante con conector rojo del kit de accesorios. 
+Conectar  la  tuber赤a  del  lisante  de  conector  rojo,  con  el  conector  de  tubo  del mismo color en el panel posterior del instrumento. 
+Colocar el otro extremo de la tuber赤a de entrada del lisante en el recipiente que 
+contiene  la  soluci車n  lisante,  y  gire  la  tapa  del  recipiente  hasta  que  quede segura.
+2.4.2 Conector del reactivo Diluente
+Saque el tubo del Diluente con conector verde del kit de accesorios. 
+Conectar la tuber赤a del Diluente de conector verde, con el conector de tubo del mismo color en el panel posterior del instrumento. 
+Colocar el otro extremo de la tuber赤a de entrada del Diluente en el recipiente que contiene la soluci車n Diluente, y gire la tapa del recipiente hasta que quede segura.
+2.4.3 Conector de residuos
+Saque el tubo de residuos con conector blanco del kit de accesorios. 
+Conectar la tuber赤a de los residuos de conector blanco, con el conector de tubo del mismo color en el panel posterior del instrumento. 
+Colocar el otro extremo de la tuber赤a de entrada de los residuos en el recipiente de residuos, y gire la tapa del recipiente hasta que quede segura.
+Precauci車n:  Despu谷s de  completar  toda  la  instalaci車n  de  las  tuber赤as,  mantener  su  estado natural, sin distorsi車n, doblado y torsi車n.
+Precauci車n: Todos los conectores de las tuber赤as se deben instalar de forma manual. Se proh赤be el uso de cualquier herramienta.
+Precauci車n: El reactivo debe ser homologado con el instrumento. De lo contrario, f芍cilmente puede causar resultados inexactos de medici車n y la clasificaci車n err車nea de las c谷lulas de la sangre, o hacer que el sistema de tuber赤as se da e.  
+Precauci車n: El reactivo debe evitar la luz solar directa.
+Precauci車n: Despu谷s de sustituir el contenedor de reactivo, desechar el resto del reactivo del recipiente anterior. Se  proh赤be  poner  el  resto  del  reactivo  en  el  recipiente  nuevo.  Para  evitar  la contaminaci車n del reactivo nuevo.
+Precauci車n: Al sustituir el reactivo, evitar que el tubo de pl芍stico (insertado en el contenedor del  reactivo)  entre  en  contacto  con  otras  cosas y  part赤culas.  Para  evitar  la contaminaci車n del reactivo nuevo.
+Precauci車n: Evite el uso de reactivo congelado.
+Precauci車n: Evite utilizar reactivo con su fecha de caducidad expirada.
+Advertencia: La manipulaci車n y disposici車n de los residuos debe hacerse seg迆n las normas nacionales,  locales o  estatales vigentes para  la    manipulaci車n  de  residuos biol車gicos.
+2.5 Instalaci車n del papel en la impresora (t谷rmica)
+a)	Retirar el papel engomado de la puerta de la impresora. 
+b)	Presione suavemente la puerta de la impresora para abrirla. 
+c)	Introducir el nuevo rolo t谷rmico en la entrada de papel, y hacer que la cara de impresi車n quede hacia el cabezal t谷rmico. 
+d)	Cuando el papel se va hacia un lado, tire de 谷l y mant谷ngalo recto. 
+e)	Saque el papel por la salida del papel ubicada en la puerta de la impresora.
+2.6 Instalaci車n del teclado externo 
+Saque el teclado de la caja de embalaje con cuidado. 
+Conecte el cable del teclado en el conector de la interfaz USB ubicado en el panel posterior del instrumento.
+Nota: Este instrumento viene con pantalla t芍ctil y tiene su propio teclado virtual, pero convenientemente se puede usar el teclado externo si as赤 lo desea el usuario.  Sugerimos que  el  teclado  se ubique  debajo de la  pantalla  de visualizaci車n del instrumento.
+2.7 Instalaci車n de la impresora externa (opcional) 
+Saque la impresora de la caja de embalaje con cuidado. Instale la impresora de acuerdo con el manual de la impresora.
+2.8 Conexi車n del cable de alimentaci車n  
+Aseg迆rese  de  que  el  interruptor  de  encendido  est芍  apagado.  Inserte  un 
+extremo  del  cable  de  alimentaci車n  a  la  interfaz  de  cable  de  alimentaci車n en el panel posterior del instrumento, el otro extremo a la toma de corriente. 
+En caso necesario conecte  el  cable  de  tierra  al  puerto  de  conexi車n  a  tierra  ubicado  en  la  parte posterior del instrumento y el otro extremo a una conexi車n a tierra confiable.
+Advertencia: Aseg迆rese de que la alimentaci車n es la adecuada para el instrumento antes de realizar la conexi車n.

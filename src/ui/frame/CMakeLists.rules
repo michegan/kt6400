@@ -1,0 +1,38 @@
+set(modulename frame)
+
+set(${modulename}_moc_files
+    ${modulename}/dialog.h
+    ${modulename}/funcwin.h
+    ${modulename}/menuwin.h
+    ${modulename}/mainwindow.h
+    ${modulename}/application.h
+    ${modulename}/countfuncwin.h
+    ${modulename}/msgboxdialog.h
+    ${modulename}/progressdialog.h
+)
+
+set(${modulename}_uic_files
+    ${modulename}/menuwin.ui
+    ${modulename}/msgboxdialog.ui
+    ${modulename}/progressdialog.ui
+)
+
+set(${modulename}_source_files
+    ${modulename}/dialog.cpp
+    ${modulename}/funcwin.cpp
+    ${modulename}/menuwin.cpp
+    ${modulename}/mainwindow.cpp
+    ${modulename}/uivariants.cpp
+    ${modulename}/messagebox.cpp
+    ${modulename}/application.cpp
+    ${modulename}/countfuncwin.cpp
+    ${modulename}/msgboxdialog.cpp
+    ${modulename}/progressdialog.cpp
+)
+
+set(include_dir  ${include_dir}  ${CMAKE_CURRENT_SOURCE_DIR}/${modulename})
+set(moc_files    ${moc_files}    ${${modulename}_moc_files})
+set(uic_files    ${uic_files}    ${${modulename}_uic_files})
+set(source_files ${source_files} ${${modulename}_source_files})
+
+source_group(${modulename} FILES ${${modulename}_moc_files} ${${modulename}_uic_files} ${${modulename}_source_files})

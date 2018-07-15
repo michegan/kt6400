@@ -1,0 +1,27 @@
+set(modulename lineedit)
+
+set(${modulename}_moc_files
+    ${modulename}/lineedit.h
+    ${modulename}/iplineedit.h
+    ${modulename}/datelineedit.h
+    ${modulename}/timelineedit.h
+    ${modulename}/digitlineedit.h
+    ${modulename}/multilineedit.h
+    ${modulename}/sampleidlineedit.h
+)
+
+set(${modulename}_source_files 
+    ${modulename}/lineedit.cpp
+    ${modulename}/iplineedit.cpp
+    ${modulename}/datelineedit.cpp
+    ${modulename}/timelineedit.cpp
+    ${modulename}/digitlineedit.cpp
+    ${modulename}/multilineedit.cpp
+    ${modulename}/sampleidlineedit.cpp
+)
+
+set(include_dir  ${include_dir}  ${CMAKE_CURRENT_SOURCE_DIR}/${modulename})
+set(moc_files    ${moc_files}    ${${modulename}_moc_files})
+set(source_files ${source_files} ${${modulename}_source_files})
+
+source_group(${modulename} FILES ${${modulename}_source_files})

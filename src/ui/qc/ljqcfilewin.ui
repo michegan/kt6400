@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LJQcFileWin</class>
+ <widget class="QWidget" name="LJQcFileWin">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>LJQcFileWin</string>
+  </property>
+  <widget class="QPushButton" name="pbSetup">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>500</y>
+     <width>120</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Setup</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pbList">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>500</y>
+     <width>120</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>List</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pbGraph">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>500</y>
+     <width>120</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Graph</string>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

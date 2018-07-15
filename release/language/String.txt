@@ -1,0 +1,167 @@
+IDS_NULL : 
+IDS_OK : OK
+IDS_CANCEL : Cancel
+IDS_YES : Yes
+IDS_NO : No
+IDS_COMMON : Common
+IDS_UNKNOWN : Unknown
+IDS_WBC : 白细胞总数
+IDS_LYM_PER : 淋巴细胞比率
+IDS_MID_PER : 中间细胞比率
+IDS_GRAN_PER : 粒细胞比率
+IDS_LYM_NUM : 淋巴细胞
+IDS_MID_NUM : 中间细胞
+IDS_GRAN_NUM : 粒细胞
+IDS_RBC : 红细胞总数
+IDS_HGB : 血红蛋白
+IDS_HCT : 红细胞压积
+IDS_MCV : 红细胞平均体积
+IDS_MCH : 血红蛋白含量
+IDS_MCHC : 血红蛋白浓度
+IDS_RDW_SD : 红细胞分布宽度SD
+IDS_RDW_CV : 红细胞分布宽度CV
+IDS_PLT : 血小板总数
+IDS_MPV : 血小板平均体积
+IDS_PDW : 血小板分布宽度
+IDS_PCT : 血小板压积
+IDS_PLCR : 血小板大细胞比率
+IDS_NAME : Name
+IDS_FULL_NAME : Full name
+IDS_USER_NAME : User name
+IDS_PASSWORD : Password
+IDS_PASSWORD_CONFIRM : Password confirm
+IDS_ADMINISTRATOR : Administrator
+IDS_LOGIN : Login
+IDS_INPUT_USER_NAME : Please input user name
+IDS_INVALID_USER_NAME : Invalid user name
+IDS_INVALID_PASSWORD : Invalid password
+IDS_PASSWORD_UNMATCH : Password unmatch
+IDS_LIQUID_INIT : Liquid init
+IDS_LIQUID_CLEANUP : Liquid cleanup
+IDS_BACKGROUND_TEST : Bacground test
+IDS_SYSTEM_BUSY : System busy, wait for a moment.
+IDS_FAULT_LIMITED : Fault limited, please resolve the fault first.
+IDS_RUN_FAIL : Start fail, because of anything else.
+IDS_LOGOFF : Log Off
+IDS_LOGOFF_Q : Log Off?
+IDS_MENU : Menu
+IDS_PRINT : Print
+IDS_MODE : Mode
+IDS_UNCLOG : Unclog
+IDS_ADD_DILUENT : Add diluent
+IDS_SAMPLE_ID : Sample ID
+IDS_PATIENT_ID : Patient ID
+IDS_GENDER : Gender
+IDS_MALE : Male
+IDS_FEMALE : Female
+IDS_SENDER : Sender
+IDS_SEND_TIME : Send time
+IDS_TESTOR : Testor
+IDS_TEST_TIME : Test time
+IDS_CHECKER : Checker
+IDS_CHECK_TIME : Check time
+IDS_AGE : Age
+IDS_YEAR : Year
+IDS_MONTH : Month
+IDS_DAY : Day
+IDS_DEPARTMENT : Department
+IDS_BED_NO : Bed No
+IDS_COMMENT : Comment
+IDS_SPECIES : Species
+IDS_NEXT_SAMPLE : Next Sample
+IDS_COUNT : Count
+IDS_REVIEW : Review
+IDS_QC : Qc
+IDS_CALIBRATE : Calibrate
+IDS_MAINTAIN : Maintain
+IDS_REAGENT : Reagent
+IDS_SELFTEST : Selftest
+IDS_SETUP : Setup
+IDS_SHUTDOWN : Shutdown
+IDS_SHUTDOWN_MACHINE : Shutdown the machine?
+IDS_HUMAN : Human
+IDS_CAT : Cat
+IDS_DOG : Dog
+IDS_MOUSE : Mouse
+IDS_RABBIT : Rabbit
+IDS_WHOLE_BLOOD : Whole Blood
+IDS_PERIPHERAL : Peripheral
+IDS_PREDILUENT : Prediluent
+IDS_RELIEVE : Relieve
+IDS_ADD : Add
+IDS_EDIT : Edit
+IDS_DELETE : Delete
+IDS_SEARCH : Search
+IDS_PAGE_DOWN : Page down
+IDS_PAGE_UP : Page up
+IDS_TRANSMIT : Transmit
+IDS_POS : Pos
+IDS_SELECTED : Selected
+IDS_ALL_ITEMS : All Iitems
+IDS_SELECTED_ITEMS : Selected items
+IDS_LOT_NO : Lot No.
+IDS_CLEAR : Clear
+IDS_MOTOR : Motor
+IDS_VALVE : Valve
+IDS_SENSOR : Sensor
+IDS_VERSION : Version
+IDS_OTHER : Other
+IDS_GAIN : Gain
+IDS_MACHINE : Machine
+IDS_DATE_TIME : Date time
+IDS_PARA_UNIT : Para unit
+IDS_REF_RANGE : Ref range
+IDS_CAL_FACTOR : Cal factor
+IDS_MOTOR_X : Motor X
+IDS_MOTOR_Y : Motor Y
+IDS_SYRINGE_1 : Syringe 1
+IDS_SYRINGE_2 : Syringe 2
+IDS_SUCCESS : Success
+IDS_FAIL : Fail
+IDS_RESULT : Result
+IDS_SELFTESTING : Selftesting
+IDS_LYSE : Lyse
+IDS_DILUENT : Diluent
+IDS_WASTE : Waste
+IDS_CONST : const
+IDS_BUZZER : Buzzer
+IDS_HGB_LED : HGB led
+IDS_WBC_BURN : WBC burn
+IDS_RBC_BURN : RBC burn
+IDS_HGB_AD : HGB ad
+IDS_ADULT_MALE : Adult male
+IDS_ADULT_FEMALE : Adult female
+IDS_CHILD : Child
+IDS_INFANT : Infant
+IDS_USER_1 : User 1
+IDS_USER_2 : User 2
+IDS_USER_3 : User 3
+IDS_USER : User
+IDS_FACTORY : Factory
+IDS_PRINTER : Printer
+IDS_USB_PRINTER : Usb printer
+IDS_THERMAL_PRINTER : Recorder
+IDS_PRINT_GRAPH : Print graph
+IDS_USB_VERTIVAL_REPORT : Vertical report
+IDS_THERMAL_VERTIVAL_REPORT : Vertical report
+IDS_THERMAL_HORIZONTAL_REPORT: Horizontal report
+IDS_USER_EXIST : User is exist, please choose another user name
+IDS_DOCTOR_ID : Doctor id
+IDS_DOCTOR_NAME : Doctor name
+IDS_DEPARTMENT_ID : Department id
+IDS_DEPARTMENT_NAME : Department name
+IDS_FAULT : Fault
+IDS_WBC_CLOG : Wbc clog
+IDS_RBC_CLOG : Rbc clog
+IDS_WBC_BUBBLE : Wbc bubble
+IDS_HGB_BUBBLE : Hgb bubble
+IDS_HGB_ERROR : Hgb error
+IDS_MOTOR_H : Motor H error
+IDS_MOTOR_V : Motor V error
+IDS_SYRINGE_1 : Syringe 1 error
+IDS_SYRINGE_2 : Syringe 2 error
+IDS_NO_LYSE : No lyse
+IDS_NO_DILUENT : No diluent
+IDS_WASTE_FULL : Waste fault
+IDS_BACKGROUND : Background abnormal
+IDS_NO_PAPER : Printer no paper

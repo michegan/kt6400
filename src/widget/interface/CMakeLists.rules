@@ -1,0 +1,18 @@
+set(modulename interface)
+
+set(${modulename}_moc_files
+    ${modulename}/widgetinterface.h
+    ${modulename}/widgetinterfaces.h
+)
+
+set(${modulename}_source_files 
+    ${modulename}/widgetinterface.cpp
+    ${modulename}/widgetinterfaces.cpp
+    ${modulename}/lineeditinterface.cpp
+)
+
+set(include_dir  ${include_dir}  ${CMAKE_CURRENT_SOURCE_DIR}/${modulename})
+set(moc_files    ${moc_files}    ${${modulename}_moc_files})
+set(source_files ${source_files} ${${modulename}_source_files})
+
+source_group(${modulename} FILES ${${modulename}_source_files})

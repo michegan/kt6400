@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <items id = "WBC">
+    <item id = "10^9/L" value = "3.2"/>
+    <item id = "10^3/uL" value = "3.2"/>
+    <item id = "10^2/uL" value = "4.1"/>
+    <item id = "/nL" value = "3.2"/>
+  </items>
+  <items id = "LYM%">
+    <item id = "%" value = "2.1"/>
+    <item id = "" vale = "1.3"/>
+  </items>
+  <items id = "MID%">
+    <item id = "%" value = "2.1"/>
+    <item id = "" vale = "1.3"/>
+  </items>
+  <items id = "GRAN%">
+    <item id = "%" value = "2.1"/>
+    <item id = "" vale = "1.3"/>
+  </items>
+  <items id = "LYM#">
+    <item id = "10^9/L" value = "3.2"/>
+    <item id = "10^3/uL" value = "3.2"/>
+    <item id = "10^2/uL" value = "4.1"/>
+    <item id = "/nL" value = "3.2"/>
+  </items>
+  <items id = "MID#">
+    <item id = "10^9/L" value = "3.2"/>
+    <item id = "10^3/uL" value = "3.2"/>
+    <item id = "10^2/uL" value = "4.1"/>
+    <item id = "/nL" value = "3.2"/>
+  </items>
+  <items id = "GRAN#">
+    <item id = "10^9/L" value = "3.2"/>
+    <item id = "10^3/uL" value = "3.2"/>
+    <item id = "10^2/uL" value = "4.1"/>
+    <item id = "/nL" value = "3.2"/>
+  </items>
+
+  <items id = "RBC">
+    <item id = "10^12/L" value = "2.2"/>
+    <item id = "10^6/uL" value = "2.2"/>
+    <item id = "10^4/uL" value = "4.0"/>
+    <item id = "/pL" value = "2.2"/>
+  </items>
+  <items id = "HGB">
+    <item id = "g/L" value = "3.0"/>
+    <item id = "g/dL" value = "2.1"/>
+    <item id = "mmol/L" value = "2.1"/>
+  </items>
+  <items id = "MCV">
+    <item id = "fL" value = "3.1"/>
+    <item id = "um3" value = "3.1"/>
+  </items>
+  <items id = "MCH">
+    <item id = "pg" value = "3.1"/>
+    <item id = "fmol" value = "2.2"/>
+    <item id = "amol" value = "4.0"/>
+  </items>
+  <items id = "MCHC">
+    <item id = "g/L" value = "4.0"/>
+    <item id = "g/dL" value = "3.1"/>
+    <item id = "mmol/L" value = "3.1"/>
+  </items>
+  <items id = "HCT">
+    <item id = "%" value = "2.1"/>
+    <item id = "" vale = "1.3"/>
+    <item id = "L/L" value = "1.3"/>
+  </items>
+  <items id = "RDW-SD">
+    <item id = "fL" value = "3.1"/>
+    <item id = "um3" value = "3.1"/>
+  </items>
+  <items id = "RDW-CV">
+    <item id = "%" value = "2.1"/>
+    <item id = "" vale = "1.3"/>
+  </items>
+  109/L
+103/uL
+104/uL
+/nL
+
+  <items id = "PLT">
+    <item id = "10^9/L value = "4.0"/>
+    <item id = "10^3/uL" vale = "4.0"/>
+    <item id = "10^4/uL" vale = "3.1"/>
+    <item id = "/nL" vale = "4.0"/>
+  </items>
+  <items id = "MPV">
+    <item id = "fL" value = "2.1"/>
+    <item id = "um3" value = "2.1"/>
+  </items>
+  <items id = "PCT">
+    <item id = "%" value = "1.3"/>
+    <item id = "mL/L" value = "1.2"/>
+  </items>
+  <items id = "PDW">
+    <item id = %" value = "2.1"/>
+    <item id = "(10GSD)" vale = "2.1"/>
+  </items>
+  <items id = "PLCC">
+    <item id = "10^9/L value = "4.0"/>
+    <item id = "10^3/uL" vale = "4.0"/>
+    <item id = "10^4/uL" vale = "3.1"/>
+    <item id = "/nL" vale = "4.0"/>
+  </items>
+  <items id = "PLCR">
+    <item id = "%" value = "2.1"/>
+    <item id = "" vale = "1.3"/>
+  </items>
+</root>

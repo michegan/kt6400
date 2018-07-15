@@ -1,0 +1,28 @@
+set(modulename graph)
+
+set(${modulename}_moc_files
+    ${modulename}/histwidget.h
+    ${modulename}/parawidget.h
+    ${modulename}/unitwidget.h
+    ${modulename}/graphwidget.h
+    ${modulename}/pulsewidget.h
+    ${modulename}/tablewidget.h
+    ${modulename}/reagentwidget.h
+)
+
+set(${modulename}_source_files 
+    ${modulename}/uicolor.cpp
+    ${modulename}/histwidget.cpp
+    ${modulename}/parawidget.cpp
+    ${modulename}/unitwidget.cpp
+    ${modulename}/graphwidget.cpp
+    ${modulename}/pulsewidget.cpp
+    ${modulename}/tablewidget.cpp
+    ${modulename}/reagentwidget.cpp
+)
+
+set(include_dir  ${include_dir}  ${CMAKE_CURRENT_SOURCE_DIR}/${modulename})
+set(moc_files    ${moc_files}    ${${modulename}_moc_files})
+set(source_files ${source_files} ${${modulename}_source_files})
+
+source_group(${modulename} FILES ${${modulename}_source_files})

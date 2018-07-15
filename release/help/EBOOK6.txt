@@ -1,0 +1,130 @@
+CAP赤TULO 6     AJUSTES
+El instrumento cumple con todos los ajustes de f芍brica. Para mayor comodidad de  los clientes,  la  mayor赤a  de  los par芍metros del  sistema  pueden  ser configurados por el operador con el fin de cumplir con varios requisitos.
+
+Aviso: Las operaciones en este cap赤tulo van a cambiar el estado de funcionamiento del  instrumento.  Por  favor,  aseg迆rese  de  que  los cambios sean  necesarios antes de manipular.
+6.1  Fecha Y Hora
+En la ventana principal del analizador, pulse el bot車n men迆. Seleccione "Ajuste 
+/ Fecha y Hora". El instrumento muestra la ventana de configuraci車n de la fecha y hora. Como se muestra en la figura 6-1. 
+Pulse en el  las barras del men迆 para ajustar el par芍metro deseado. 
+Pulse el bot車n "OK". El instrumento guardara los par芍metros actuales y volver芍 a la ventana principal del analizador. 
+Pulse  el  bot車n  "Cancelar",  el  sistema  no  guardar芍  los par芍metros actuales y volver芍 a la ventana principal del analizador.
+ 
+Figura 6-1
+6.2  Impresi車n  
+En  la  ventana  principal  del  analizador,  pulse  el  bot車n  del  men迆  principal. 
+Seleccione "Ajuste / imprimir". El instrumento muestra la ventana de impresi車n. 
+Como se muestra en la figura 6-2.
+ 
+Figura 6-2
+Haga  clic en  el  cuadro  del  men迆  que  desea  ajustar,  aparece  la  ventana opcional. Pulse en el  el elemento que desea ajustar. 
+Pulse el bot車n "OK", el instrumento guardar芍 los par芍metros actuales y volver芍 a la ventana principal del analizador. 
+Pulse  el  bot車n  "Cancelar",  el  sistema  no  guardar芍  los par芍metros actuales y volver芍 a la ventana principal del analizador.
+ 	Selecci車n de Impresora
+Seleccione  Recorder,  los datos s車lo  ser芍n  transportados  a  la  impresora t谷rmica. 
+Seleccione serial Port, los datos s車lo ser芍n transportados a la red. 
+Seleccione Recoder y serial port, los datos ser芍n transportados a la impresora t谷rmica y a la red al mismo tiempo. 
+Seleccione L芍ser Jet, los datos ser芍n transportados a la impresora HP l芍ser jet, 1018 o 1008. 
+Seleccione network print, los datos ser芍n transportados a la computadora que est芍 conectada con la  impresora HP L芍ser jet 1008.
+ 	Formatos de salida de la impresora
+Aviso: Existen  diferentes  formatos a  la  hora  de  seleccionar  las diferentes configuraciones, se describen de la siguiente manera:
+Imprimir encabezado: Puede imprimir f芍cilmente el t赤tulo del informe.
+Tipo de Impresi車n: El usuario puede elegir el tipo de impresora.
+Aviso: El  tipo  de  impresi車n  seleccionado  debe  ser  acorde  con  la  impresora seleccionada, de lo contrario no imprimir芍 normalmente.
+6.3 Control
+En  la  ventana  principal  del  analizador,  pulse  el  bot車n  del  men迆  principal. 
+Seleccione  "Ajuste  /  Control",  entra  en  la  ventana  de  configuraci車n  de impresi車n. Como se muestra en la figura 6-3.
+ 
+Figura 6-3
+Pulse en el par芍metro que desea ajustar, se abre la ventana de opciones. Pulse en el 赤tem que quiere seleccionar. 
+Pulse ※Guardar§ el instrumento guarda la informaci車n actual y regresa a la pantalla principal del analizador. 
+Pulse  ※Cancel§, el sistema no guardara los cambios actuales y regresara a la pantalla principal.
+ 	Auto
+Seleccione ※ON§  en el 芍rea IMPRIMIR y el sistema imprime el reporte de la prueba autom芍ticamente  luego de terminar  la prueba. 
+Selecciona ※OFF§ en el 芍rea  EN ESPERA y el instrumento permanece en estado de trabajo  todo  el  tiempo.  Seleccione    un  tiempo  determinado  y  el  analizador entrar芍  en  modo  de  reposo  autom芍ticamente  luego  de  que  este  inactivo  por m芍s del  tiempo  ya  programado.  Esta  opci車n  permite  ahorro  de  energ赤a  y aumento en la vida 迆til del instrumento. Para salir del modo de reposo presione el bot車n izquierdo del rato o cualquier tecla en el teclado.
+Seleccione ※ON§  en el 芍rea BLANCO AUTO y el sistema hace la prueba autom芍ticamente  luego de terminar  la prueba. 
+Seleccione ※OFF§ en el 芍rea LIMPIEZA y el instrumento no realizara la limpieza autom芍tica.  Seleccione  un  tiempo  determinado  y  el  analizador  realizara  la limpieza  autom芍tica  seg迆n  corresponda  al  tiempo  programado.  Esta  opci車n ayuda a mantener el sistema limpio y a evitar posibles fallas en los resultados o en el funcionamiento.
+ 	Sonido
+Seleccione  ※OFF§  en el 芍rea ALARMA, cuando el instrumento tenga una alarma esta  se mostrara en el 芍rea de informaci車n  en la pantalla principal, pero no emitir芍 la alarma auditiva. 
+Seleccione ※ON§ en el 芍rea ALARMA, cuando el instrumento tenga una alarma esta se mostrara en el 芍rea de informaci車n en la pantalla principal, y emitir芍 la alarma auditiva. 
+Seleccione  ※OFF§  en  el  芍rea  TONO,  cuando  el  instrumento  termina  un an芍lisis, este no emitir芍 el indicador de sonido. 
+Seleccione  ※ON§  en  el  芍rea  TONO,  cuando  el  instrumento  termina  un an芍lisis, este  emitir芍 el indicador de sonido ※di§.
+ 	Display
+Seleccione ※ENPA OL§ en el 芍rea PARAM, en el 芍rea  de visualizaci車n principal del  analizador  aparecen  las  abreviaciones de  cada  par芍metro  medido  en espa ol. 
+Seleccione  ※NO  DISPLAY§  en  el  芍rea  LIMITES,  en  el  芍rea  de  visualizaci車n principal de los par芍metros no aparecer芍 el valor de referencia actual. 
+Seleccione  ※BAJO ALTO§  en  el  芍rea  LIMITES,  en  el  芍rea  de  visualizaci車n principal  de  los par芍metros   aparecer芍  el  valor  de  referencia    de  menor  a mayor. 
+Seleccione  ※ALTO  BAJO§  en  el  芍rea  LIMITES,  en  el  芍rea  de  visualizaci車n principal  de  los  par芍metros    aparecer芍  el  valor  de  referencia    de    mayor  a menor
+6.4      Limites
+En  la  pantalla  principal  del  analizador,  presione  men迆.  Seleccione  ※Ajuste 
+/Limites§, pasara a la ventana de ajuste de los l赤mites. Como se muestra en la figura 6-4. 
+Al lado izquierdo de la pantalla se muestran  8 grupos cada uno con valores de referencia.  El  grupo  seleccionado  es marcado  con  un  punto.  Los  valores de referencia  se  pueden  ver  en  el  cuadro  de  l赤mites en  el  芍rea  derecha  de  la pantalla. 
+Pulse en el grupo al cual desea realizar alg迆n ajuste.
+ 
+Figura 6-4
+Seleccionar ※PREDET§ en el 芍rea de grupos, el analizador selecciona valores de referencia por defecto para reemplazar los valores de referencia actuales. 
+Pulse en la barra de ajuste para cada par芍metro en el cuadro de l赤mites para ajustar los valores de referencia de los  l赤mites altos y bajos. 
+Funciones del men迆 y teclas de acceso r芍pido: 
+Guardar: Guarda los valores de referencia del grupo actual. 
+Imprimir: Imprime los valores de referencia del grupo actual. 
+Regresar:  Sale  de  la  ventana  actual,  y  regresa  a  la  ventana  principal  del analizador.
+6.5 Informaci車n de departamento
+La  informaci車n  del  departamento  puede  ayudar  al  operador  a  configurar  la 
+Informaci車n del usuario con antelaci車n, y acelerar la gesti車n de la informaci車n de la muestra. Mejora la comunicaci車n de la informaci車n digital del laboratorio. 
+En la ventana principal del analizador, pulse el bot車n men迆, seleccione "Ajuste / 
+Departamento", el instrumento muestra la ventana de ajustes de departamento.  
+Como se muestra en la Figura 6-5.
+ 
+Figura 6-5
+Pulse en la barra de movimiento ubicada en el lado derecho de la ventana, el instrumento muestra los nueceros de serie grabados continuamente. 
+Pulse en el bot車n ※REGRESAR§, el analizador sale de la ventana actual y regresa a la 
+Pantalla principal.
+6.5.1  A adir  registro de informaci車n
+Pulse en  el  bot車n  ※AGREGAR§  muestra  la  pantalla  para  agregar  informaci車n, como se muestra en la figura 6-6 
+Ingrese la informaci車n  de departamento y la abreviatura.
+Aviso: Si pulsa en el bot車n ※CANCEL§, la informaci車n de entrada actual no se guardara, y el sistema regresara a la ventana de ajuste de Departamento. 
+Clic en  el  bot車n  ※OK§,  la  informaci車n  de  entrada  actual  se  guardara,  y  el sistema regresara a la ventana de ajuste de Departamento. 
+El  m谷todo  de  codificaci車n  de  la  abreviatura  debe  ser  f芍cil  de  memorizar,  Se recomienda la abreviatura del nombre del departamento.
+ 
+Figura 6-6
+6.5.2 Modificar informaci車n de departamento
+Seleccionar    el  dato  que  quiere  modificar.  Presione  el  bot車n  ※MODIFICAR§, el sistema muestra la ventana de modificaci車n, como se muestra en la figura 6-7.
+ 
+Figura 6-7
+Modifique la informaci車n que desea cambiar. 
+Seleccione ※Cancel§ la informaci車n ingresada actualmente no se guardara, y el sistema regresara a la ventana ajuste de departamento. 
+Seleccione  ※OK§  la  informaci車n  ingresada  actualmente  se  guardara,  y  el sistema regresara a la ventana ajuste de departamento.
+6.5.3  Borrar informaci車n de departamento
+Seleccionar  el  dato  que  quiere  borrar,  seleccione  el  bot車n  ※BORRAR§  el dato seleccionado ser芍 borrado.
+6.5.4 Imprimir informaci車n de departamento
+Seleccionar  ※IMPRIMIR§ El  instrumento  imprimir芍  la  informaci車n guardada en esta secci車n.
+6.6 Informaci車n de Operador
+La  informaci車n  del  Operador    puede  ayudar  al  operador  a  configurar  la informaci車n del usuario con antelaci車n, y acelerar la gesti車n de la informaci車n de la muestra. Mejora la comunicaci車n de la informaci車n digital del laboratorio.  
+En la ventana principal del analizador, pulse el bot車n men迆, seleccione " Ajuste 
+/  Doctor  info.",  el  instrumento  muestra  la  ventana  de  ajustes de  operador.  
+Como se muestra en la Figura 6-8.
+ 
+Figura 6-8
+Haga  clic  en  la  barra  de  desplazamiento  en  la  parte  derecha  de  la  ventana para mostrar  los datos registrados continuamente. 
+Haga  clic en  "Regresar" ,  el  sistema  saldr芍  de  la  ventana  actual  y volver芍 a la ventana principal del analizador.
+6.6.1  Agregar Informaci車n de Operador
+Seleccione ※AGREGAR § , el instrumento muestra  la ventana agregar registro, como se muestra en la figura 6-9.
+ 
+Figura 6-9
+Ingrese la informaci車n del nombre y la abreviatura. 
+Ingrese  la  informaci車n    abreviada  en  el  cuadro  de  entrada  izquierdo  del departamento,  el  sistema  seleccionar芍  autom芍ticamente  el  departamento. 
+Tambi谷n puede seleccionar el departamento directamente desde el cuadro de entrada ubicado a la derecha del departamento. 
+"ESTATUS"    (Estado)  representa  el  estado  del  doctor,  incluyendo: Doctor, operador e inspector. Pulse en el  el cuadro de la izquierda, si esta en blanco significa que no hay elecci車n, si esta en negro significa que esta seleccionada. 
+Est芍 permitida la selecci車n de m芍s de un 赤tem.
+Aviso: El  m谷todo  de  codificaci車n  de  la  abreviatura  debe  ser  f芍cil  de  memorizar,  Se recomienda la abreviatura del nombre del departamento.
+6.6.2 Modificar informaci車n del operador
+Pulse en el  el 赤tem que desea cambiar y, a continuaci車n, Pulse en el  bot車n 
+"Modificar",  el  sistema  muestra  la  ventana  de  modificaci車n  de  registro,  como muestra la Figura 6-10.
+ 
+Figura 6-10
+Modifique la informaci車n que desee. 
+Si pulsa en "Cancelar", la informaci車n ingresada no se guardara, y el sistema vuelve a la ventana de configuraci車n. 
+Pulse en "OK" para guardar la informaci車n de entrada actual y el sistema vuelve a la ventana de configuraci車n.
+6.6.3  Borrar Informaci車n de operador
+Seleccionar  el  dato  que  quiere  modificar,  seleccione  el  bot車n  ※BORRAR§  
+(Borrar) el dato seleccionado ser芍 borrado.
+6.6.4 Imprimir informaci車n de operador
+Seleccionar  ※IMPRIMIR§  El  instrumento  imprimir芍  la  informaci車n guardada en esta secci車n.
